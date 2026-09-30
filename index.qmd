@@ -1,5 +1,5 @@
 ---
-title: "Mécanique du Point"
+title: "CLIP ASTERIE"
 subtitle: "Introduction à la Mécanique pour Ingénieurs"
 details: |
   La vitesse n'a jamais tué personne. Se retrouver brusquement immobile, c'est ça qui vous tue. - Jeremy Clarkson, *Top Gear*<br>
