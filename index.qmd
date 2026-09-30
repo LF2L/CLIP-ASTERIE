@@ -1,8 +1,8 @@
 ---
-title: "CLIP ASTERIE"
-subtitle: "Introduction à la Mécanique pour Ingénieurs"
+title: "CLIP ASTERIE 2026-2027"
+subtitle: "Template du site web pour cette nouvelle édition du CLIP"
 details: |
-  Esto es para Ferney
+  Lieu pour centraliser les contenu et consignes de chaque sprint
 sidebar: false
 page-layout: full
 course-logo: /assets/img/logo-mdp.png

@@ -1,35 +1,69 @@
 author: Fabio A. Cruz Sanchez
 
-instructor:
-  name: Dr. Fabio A Cruz
-  name_no_title: Fabio Cruz Sanchez
-  email: fabio.cruz@univ-lorraine.fr
+instructor1:
+  name: Ferney Osorio
+  name_no_title: Ferney Osorio
+  email: ferney.osorio@univ-lorraine.fr
   url: "https://www.andrewheiss.com"
   twitter: andrewheiss
   github: andrewheiss
-  office: "ENSGSI"
+  office: "ENSGSI-ERPI"
   contact_policy: >-
     E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
   appointment_url: https://calendly.com/andrewheiss/
 
-guillaume:
-  name: Guillaume Pronost
-  email: guillaume.pronost@univ-lorraine.fr
+instructor2:
+  name: Manon Enjolras
+  email: manon.enjolras@univ-lorraine.fr
   url: /
   twitter: /
   github: /
-  office: "ENSGSI"
+  office: "ENSGSI-ERPI"
   contact_policy: >-
     E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
   appointment_url: https://calendly.com/andrewheiss/
 
+instructor3:
+  name: Mauricio Camargo
+  email: mauricio.camargo@univ-lorraine.fr
+  url: /
+  twitter: /
+  github: /
+  office: "ENSGSI-ERPI"
+  contact_policy: >-
+    E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
+  appointment_url: https://calendly.com/andrewheiss/
+
+instructor4:
+  name: Marcos Medina Tabares
+  email: marcos.medina@univ-lorraine.fr
+  url: /
+  twitter: /
+  github: /
+  office: "ERPI"
+  contact_policy: >-
+    E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
+  appointment_url: https://calendly.com/andrewheiss/
+
+instructor5:
+  name: Elodie Sudol
+  email: elodie.sudol@univ-lorraine.fr
+  url: /
+  twitter: /
+  github: /
+  office: "ERPI"
+  contact_policy: >-
+    E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (*really*), but also remember that life can be busy and chaotic for everyone (including me!), so if I don't respond right away, don't worry!
+  appointment_url: https://calendly.com/andrewheiss/
+
+
 course:
   number: "PMAP 8521"
-  semester: "September 2023 - Janvier 2024"
-  days: "Thursdays"
-  time: "7:15–9:45 PM"
+  semester: "Octobre 2026 - Juillet 2025"
+  days: "Jeudi"
+  time: "1:00–3:00 PM"
   location: "ENSGSI"
-  dates: "January 9–May 2, 2023"
+  dates: "Octobre 14, 2026–Juillet 30, 2027"
   github: "https://www.github.com/andrewheiss/evalsp23.classes.andrewheiss.com"
   url: "https://evalsp23.classes.andrewheiss.com"
   copyright_year: "2023"
@@ -37,8 +71,8 @@ course:
 
 university:
   name: Université de Lorraine
-  url: "https://www.gsu.edu"
+  url: "https://https://www.univ-lorraine.fr/"
 
 school:
   name: ENSGSI
-  url: "https://aysps.gsu.edu/"
+  url: "https://https://ensgsi.univ-lorraine.fr/"
