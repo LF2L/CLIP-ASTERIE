@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.10.18">
@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>CLIP ASTERIE – Mécanique du Point</title>
+<title>Un parcours pour développer nos espaces d’innovation – CLIP-ASTERIE</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -45,9 +45,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-a97b7566ed80122a2d2501afb84cc02a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-e5f91ad3aecf1eb9d35c53ff38ad6c57.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,30 +58,21 @@ ul.task-list li input[type="checkbox"] {
     "/",
     "s"
   ],
+  "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "Pas de résultats",
+    "search-matching-documents-text": "documents trouvés",
+    "search-copy-link-title": "Copier le lien vers la recherche",
+    "search-hide-matches-text": "Cacher les correspondances additionnelles",
+    "search-more-match-text": "correspondance de plus dans ce document",
+    "search-more-matches-text": "correspondances de plus dans ce document",
+    "search-clear-button-title": "Effacer",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Annuler",
+    "search-submit-button-title": "Envoyer",
+    "search-label": "Recherche"
   }
 }</script>
-<script>
-window.MathJax = {
-  loader: {
-    load: ['[tex]/physics']
-  },
-  tex: {
-    packages: {'[+]': ['physics']}
-  }
-};
-</script>    
 
 
 </head>
@@ -95,126 +84,76 @@ window.MathJax = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./cover.png" alt="Quarto logo." class="navbar-logo light-content">
-    <img src="./cover.png" alt="Quarto logo." class="navbar-logo dark-content">
-    </a>
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Mécanique du Point</span>
+    <span class="navbar-title">CLIP-ASTERIE</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Recherche"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Basculer la navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
+<span class="menu-text">Accueil</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./CM.html"> 
-<span class="menu-text">Cours Magistraux</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./TD.html"> 
-<span class="menu-text">Travaux Dirigés</span></a>
-  </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-aide" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Aide</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-aide">    
-        <li class="dropdown-header">Report un Erreur</li>
-        <li class="dropdown-header">Demandez une Question</li>
-        <li class="dropdown-header">FAQ</li>
-    </ul>
-  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-    <a href="https://twitter.com/fabbiocrux" title="Quarto Twitter" class="quarto-navigation-tool px-1" aria-label="Quarto Twitter"><i class="bi bi-twitter"></i></a>
-    <a href="https://github.com/fabbiocrux/MdP" title="MdP GitHub" class="quarto-navigation-tool px-1" aria-label="MdP GitHub"><i class="bi bi-github"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Sur cette page</h2>
+   
+  <ul>
+  <li><a href="#le-parcours" id="toc-le-parcours" class="nav-link active" data-scroll-target="#le-parcours">Le parcours</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="course-title title display-7">
-             CLIP ASTERIE
-         </h1></header>
+<main class="content" id="quarto-document-content">
 
-<div class="grid title-block">
-     <div class="course-details-title-block g-col-12 g-col-sm-8 order-2 order-sm-1 text-center text-sm-start">
-         
-         <div class="course-subtitle">
-             <p>Introduction à la Mécanique pour Ingénieurs</p>
-         </div>
-         <div class="course-meta">
-             <p></p><p>Esto es para Ferney</p><p></p>
-         </div>
-     </div>
-     <div class="g-col-12 g-col-sm-4 order-1 order-sm-2">
-       <div class="grid" style="--bs-columns: 5;">
-         <div class="g-col-1 g-col-sm-0"></div>
-         <div class="g-col-3 g-col-sm-5"><img src="./assets/img/logo-mdp.png" class="img-fluid"></div>
-         <div class="g-col-1 g-col-sm-0"></div>
-       </div>
-     </div>
- </div>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Un parcours pour développer nos espaces d’innovation</h1>
+</div>
 
 
-<div class="hero-banner">
-<div class="content-block">
-<div class="hero-text">
-<div class="grid course-details">
-<section id="instructor" class="level3 g-col-12 g-col-sm-6 g-col-md-4" data-number="0.1">
-<h3 data-number="0.1" class="anchored" data-anchor-id="instructor"><span class="header-section-number">0.1</span> Instructor</h3>
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Bienvenue sur la plateforme du parcours d’incubation.</p>
+<p>Vous trouverez ici les objectifs des sprints, les consignes des ateliers et les ressources pour avancer avec votre équipe.</p>
+<section id="le-parcours" class="level2">
+<h2 class="anchored" data-anchor-id="le-parcours">Le parcours</h2>
 <ul>
-<li><i class="fa-solid fa-user" aria-label="user"></i> &nbsp; <a href="https://www.andrewheiss.com">Guillaume Pronost</a></li>
-<li><i class="fa-solid fa-user" aria-label="user"></i> &nbsp; <a href="https://www.andrewheiss.com">Dr.&nbsp;Fabio A Cruz</a></li>
-<li><i class="fa-solid fa-university" aria-label="university"></i> &nbsp; ENSGSI</li>
-<li><i class="fa-solid fa-envelope" aria-label="envelope"></i> &nbsp; <a href="mailto:fabio.cruz@univ-lorraine.fr">fabio.cruz@univ-lorraine.fr</a></li>
-<li><i class="fa-brands fa-twitter" aria-label="twitter"></i> &nbsp; <a href="https://www.twitter.com/andrewheiss">andrewheiss</a></li>
-<li><i class="fa-solid fa-calendar-check" aria-label="calendar-check"></i> &nbsp; <a href="https://calendly.com/andrewheiss/">Schedule an appointment</a></li>
+<li><strong>Sprint 0 — Lancement :</strong> construire une compréhension commune.</li>
+<li><strong>Sprints suivants :</strong> développer et expérimenter les projets.</li>
+<li><strong>Sprint final — Clôture :</strong> partager les résultats et préparer la suite.</li>
 </ul>
+
+
 </section>
-<section id="course-details" class="level3 g-col-12 g-col-sm-6 g-col-md-4" data-number="0.2">
-<h3 data-number="0.2" class="anchored" data-anchor-id="course-details"><span class="header-section-number">0.2</span> Course details</h3>
-<ul>
-<li><i class="fa-solid fa-calendar" aria-label="calendar"></i> &nbsp; Thursdays</li>
-<li><i class="fa-solid fa-calendar-alt" aria-label="calendar-alt"></i> &nbsp; January 9–May 2, 2023</li>
-<li><i class="fa-solid fa-clock" aria-label="clock"></i> &nbsp; 7:15–9:45 PM</li>
-<li><i class="fa-solid fa-location-dot" aria-label="location-dot"></i> &nbsp; ENSGSI</li>
-<li><i class="fa-brands fa-slack" aria-label="slack"></i> &nbsp; <a href="https://gsuevalsp2023.slack.com">Slack</a></li>
-</ul>
-</section>
-<section id="contacting-me" class="level3 g-col-12 g-col-md-4 contact-policy" data-number="0.3">
-<h3 data-number="0.3" class="anchored" data-anchor-id="contacting-me"><span class="header-section-number">0.3</span> Contacting me</h3>
-<p>E-mail and Slack are the best ways to get in contact with me. I will try to respond to all course-related e-mails and Slack messages within 24 hours (<em>really</em>), but also remember that life can be busy and chaotic for everyone (including me!), so if I don’t respond right away, don’t worry!</p>
-</section>
-</div>
-<div class="hero-buttons">
-<p><a href="CM/" class="btn-action-primary btn-action btn btn-success btn-lg" role="button">Cours Magistraux</a> <a href="TD/" id="btn-guide" class="btn-action btn btn-info btn-lg" role="button">Guide de Travaux Dirigés</a></p>
-</div>
-</div>
-<div class="hero-animation">
 
-</div>
-</div>
-</div>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -240,12 +179,12 @@ window.MathJax = {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copié");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copié");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
@@ -616,51 +555,6 @@ window.MathJax = {
   });
   </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-    <div class="nav-footer-left">
-<p>Développé par <a href="https://www.ensgsi.univ-lorraine.fr/"><img src="https://raw.githubusercontent.com/fabbiocrux/Figures/main/Logos/ENSGSI/2022/Lorraine%20INP%20ENSGSI%20RS%20(couleur%2C%20CMJN).png" class="img-fluid" alt="ENSGSI" width="65"></a></p>
-</div>   
-    <div class="nav-footer-center">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item">
- About
-  </li>  
-    <li class="nav-item">
- FAQ
-  </li>  
-    <li class="nav-item">
- License
-  </li>  
-    <li class="nav-item">
- Trademark
-  </li>  
-</ul>
-    </div>
-    <div class="nav-footer-right">
-      <ul class="footer-items list-unstyled">
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/fabbiocrux">
-      <i class="bi bi-twitter" role="img" aria-label="Quarto Twitter">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/quarto-dev/quarto-cli">
-      <i class="bi bi-github" role="img" aria-label="Quarto GitHub">
-</i> 
-    </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://quarto.org/docs/blog/index.xml">
-      <i class="bi bi-rss" role="img" aria-label="Quarto Blog RSS">
-</i> 
-    </a>
-  </li>  
-</ul>
-    </div>
-  </div>
-</footer>
 
 
 

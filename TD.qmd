@@ -1,6 +1,6 @@
 ---
-title: "Cours Magistraux"
-subtitle: "Mécanique du Point"
+title: "Ateliers"
+subtitle: "CLIP-ASTERIE"
 #page-layout: full
 toc: true
 

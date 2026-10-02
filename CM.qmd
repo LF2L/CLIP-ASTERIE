@@ -1,6 +1,6 @@
 ---
-title: "Cours Magistraux"
-subtitle: "Mécanique du Point"
+title: "Sprints"
+subtitle: "CLIP-ASTERIE"
 format:
   html:
     theme:
