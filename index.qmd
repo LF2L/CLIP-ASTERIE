@@ -10,7 +10,7 @@ body-classes: clip-home
 ::::::::::::::::::::::::::::: clip-shell
 ::::: clip-hero
 ::: clip-intro
-![](assets/images/logo-clip.png){.clip-logo fig-alt="Logo CLIP-ASTERIE" width="600"}
+![](assets/images/logo-clip.png){.clip-logo fig-alt="Logo CLIP-ASTERIE"}
 
 Une formation par l'[ENSGSI de l'Université de Lorraine]{.clip-eyebrow}
 
@@ -79,7 +79,9 @@ Lancement
 ::: clip-stage
 [01]{.clip-step}
 
-### Sprint 1
+### [Sprint 1](parcours/sprint1.qmd)
+
+Tests & pivot
 
 [À venir]{.clip-status}
 :::

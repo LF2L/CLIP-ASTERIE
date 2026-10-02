@@ -1,0 +1,40 @@
+---
+title: "Sprint 1 — Tests & pivot"
+---
+
+::: {.callout-note title="Consignes en préparation"}
+Cette page sera complétée avant le lancement du programme.
+:::
+
+## En bref
+
+| Information | Détail |
+|---|---|
+| Date | À confirmer |
+| Durée | À préciser |
+| Lieu ou lien de connexion | À préciser |
+| Équipe d’animation | À renseigner |
+
+## Objectifs
+
+Objectifs de l’atelier à préciser.
+
+## Avant l’atelier
+
+Préparation et matériel à préciser.
+
+## Pendant l’atelier
+
+Déroulé et consignes à préciser.
+
+## Après l’atelier
+
+Travail à réaliser avant le prochain sprint à préciser.
+
+## Livrables
+
+Résultats attendus, échéance et modalités de remise à préciser.
+
+## Ressources
+
+Supports et documents utiles à ajouter.
