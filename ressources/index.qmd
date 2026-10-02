@@ -1,0 +1,17 @@
+---
+title: "Ressources"
+---
+
+Retrouvez ici les ressources communes au parcours. Les supports propres à un sprint seront accessibles depuis sa page.
+
+## Modèles et outils
+
+Modèles de travail et outils à ajouter.
+
+## Lectures et références
+
+Lectures utiles à ajouter.
+
+## Liens utiles
+
+Sites partenaires et autres liens à ajouter.

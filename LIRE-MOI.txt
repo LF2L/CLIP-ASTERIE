@@ -1,0 +1,46 @@
+CLIP-ASTERIE — Base du site
+
+INSTALLATION
+1. Sauvegardez le projet existant dans Git et travaillez sur une branche de reconstruction.
+2. Copiez le CONTENU de ce dossier dans la racine du dépôt existant, là où se trouve _quarto.yml.
+3. Remplacez _quarto.yml et index.qmd. Conservez les autres fichiers existants pour le moment.
+4. Depuis cette racine, lancez : quarto preview
+5. Pour arrêter : Ctrl+C.
+
+La configuration limite le rendu aux cinq pages indiquées dans project.render.
+Les anciennes sources restent présentes mais ne sont pas sélectionnées pour ce rendu.
+Un éventuel _metadata.yml existant peut encore ajouter des paramètres hérités.
+Cette base utilise uniquement HTML et ne dépend ni de LaTeX ni de filtres personnalisés.
+
+AJOUTER UN SPRINT
+1. Copiez parcours/kickoff.qmd vers parcours/sprint-01.qmd.
+2. Adaptez son titre et remplissez ses sections.
+3. Ajoutez parcours/sprint-01.qmd à project.render dans _quarto.yml.
+4. Ajoutez la même page à website.sidebar.contents.
+5. Ajoutez un lien vers elle dans le tableau de parcours/index.qmd et dans celui de index.qmd.
+6. Actualisez le bloc « Votre prochaine étape » sur la page d’accueil.
+7. Prévisualisez, puis lancez quarto render --to html avant publication.
+8. Répétez pour les sprints suivants et la clôture.
+
+LOGOS ET PHOTOS
+Placez les images dans assets/images/ (créez le dossier au besoin).
+Exemple dans index.qmd : ![Logo CLIP-ASTERIE](assets/images/logo-programme.png){width=180px}
+Pour le logo de navigation, ajoutez logo: assets/images/logo-programme.png et
+logo-alt: "CLIP-ASTERIE" sous website.navbar dans _quarto.yml.
+
+PUBLICATION
+output-dir: docs est conservé. Vérifiez Settings > Pages et .github/workflows
+avant de publier. Aucun changement de configuration GitHub n’est inclus.
+Si GitHub publie le dossier docs, des anciens fichiers générés peuvent y rester :
+avant la première publication, sauvegardez ce dossier et préservez les éventuels
+fichiers CNAME et .nojekyll, puis reconstruisez un dossier docs propre.
+
+VISIBILITÉ
+Un site public reste accessible à toute personne possédant ou découvrant son URL.
+L’absence d’annonce ne constitue pas un contrôle d’accès.
+Les pages des sprints à venir ne sont pas fournies dans cette base.
+Évitez de placer des documents non publiables dans les ressources du site.
+
+VÉRIFICATION
+Les fichiers de cette base n’ont pas été rendus avec votre installation Quarto.
+Vérifiez le résultat localement avant publication.

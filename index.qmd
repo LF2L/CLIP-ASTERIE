@@ -1,72 +1,180 @@
 ---
-title: "CLIP ASTERIE 2026-2027"
-subtitle: "Template du site web pour cette nouvelle édition du CLIP"
-details: |
-  Lieu pour centraliser les contenu et consignes de chaque sprint
-sidebar: false
-page-layout: full
-course-logo: /assets/img/logo-mdp.png
-format:
-  html:
-    template-partials:
-      - assets/html/title-block.html
-
+title: ""
+pagetitle: "Accueil — CLIP-ASTERIE"
+title-block-style: none
+toc: false
+page-layout: custom
+body-classes: clip-home
 ---
 
+::::::::::::::::::::::::::::: clip-shell
+::::: clip-hero
+::: clip-intro
+![](assets/images/logo-clip.png){.clip-logo fig-alt="Logo CLIP-ASTERIE" width="600"}
 
-:::: {.hero-banner}
+Une formation par l'[ENSGSI de l'Université de Lorraine]{.clip-eyebrow}
 
+# CLIP-ASTERIE
 
-::: {.content-block}
+[Programme d’Incubation d’Équipes d’Innovation Collaborative]{.clip-subtitle}
 
-::: {.hero-text}
+Un parcours collectif pour développer vos tiers-lieux éducatifs, expérimenter vos idées et construire la suite ensemble.
 
-
-
-::: {.grid .course-details}
-
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Instructor
-
-- {{< fa user >}} &nbsp; [{{< var guillaume.name >}}]({{< var instructor.url >}})
-- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
-- {{< fa university >}} &nbsp; {{< var instructor.office >}}
-- {{< fa envelope >}} &nbsp; <a href="mailto:{{< var instructor.email >}}">{{< var instructor.email >}}</a>
-- {{< fa brands twitter >}} &nbsp; [{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})
-- {{< fa calendar-check >}} &nbsp; [Schedule an appointment]({{< var instructor.appointment_url >}})
+[Découvrir le parcours](parcours/index.qmd){.btn .btn-primary}
 :::
 
-::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
-### Course details
+::: clip-next
+[Votre prochaine étape]{.clip-eyebrow}
 
-- {{< fa calendar >}} &nbsp; {{< var course.days >}}
-- {{< fa calendar-alt >}} &nbsp; {{< var course.dates >}}
-- {{< fa clock >}} &nbsp; {{< var course.time >}}
-- {{< fa location-dot >}} &nbsp; {{< var course.location >}}
-- {{< fa brands slack >}} &nbsp; [Slack]({{< var course.slack >}})
+## Le kick-off
+
+Lancement du parcours
+
+Le programme débute le **14 octobre 2026**. La date précise de l’atelier et les consignes de préparation seront confirmées sur sa page.
+
+[Préparer le kick-off](parcours/kickoff.qmd){.btn .btn-outline-primary}
+
+[Consignes en préparation]{.clip-status}
+:::
+:::::
+
+:::::: clip-facts
+::: clip-fact
+### Pour qui ?
+
+L’équipe de directrices et directeurs des tiers-lieux éducatifs du programme ASTERIE, porté par le rectorat de l’académie de Nancy-Metz.
 :::
 
-::: {.g-col-12 .g-col-md-4 .contact-policy}
-### Contacting me
+::: clip-fact
+### Quand ?
 
-{{< var instructor.contact_policy >}}
+Du **14 octobre 2026** à **juillet 2027**.
+
+Un kick-off, cinq sprints et un atelier de clôture.
 :::
 
+::: clip-fact
+### Où ?
+
+En présentiel à l’**ENSGSI** et à distance sur les plateformes de visioconférence de l’Université de Lorraine.
+:::
+::::::
+
+::::::::::: clip-section
+## Votre parcours en sept étapes
+
+Chaque étape associe des objectifs, un atelier et des livrables. Les consignes sont dévoilées progressivement.
+
+:::::::::: clip-journey
+::: {.clip-stage .clip-stage-open}
+[00]{.clip-step}
+
+### [Kick-off](parcours/kickoff.qmd)
+
+Lancement
+
+[Page disponible]{.clip-status}
 :::
 
+::: clip-stage
+[01]{.clip-step}
 
-::: {.hero-buttons}
-[Cours Magistraux](CM/){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
-[Guide de Travaux Dirigés](TD/){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
-::: 
+### Sprint 1
+
+[À venir]{.clip-status}
 :::
 
-::: {.hero-animation}
+::: clip-stage
+[02]{.clip-step}
 
+### Sprint 2
 
+[À venir]{.clip-status}
 :::
 
+::: clip-stage
+[03]{.clip-step}
+
+### Sprint 3
+
+[À venir]{.clip-status}
 :::
 
+::: clip-stage
+[04]{.clip-step}
 
-::::
+### Sprint 4
+
+[À venir]{.clip-status}
+:::
+
+::: clip-stage
+[05]{.clip-step}
+
+### Sprint 5
+
+[À venir]{.clip-status}
+:::
+
+::: clip-stage
+[06]{.clip-step}
+
+### Clôture
+
+[À venir]{.clip-status}
+:::
+::::::::::
+
+[Voir le parcours et le calendrier →](parcours/index.qmd)
+:::::::::::
+
+::::::::: clip-section
+## Vos mentors
+
+Université de Lorraine · ENSGSI–ERPI
+
+:::::::: clip-mentors
+::: clip-mentor
+### Élodie Sudol
+:::
+
+::: clip-mentor
+### [Marcos Medina Tabares](https://erpi.univ-lorraine.fr/membre/marcos-medina-tabares/)
+:::
+
+::: clip-mentor
+### [Manon Enjolras](https://ensgsi.univ-lorraine.fr/enseignant/manon-enjolras/)
+:::
+
+::: clip-mentor
+### [Ferney Osorio](https://ensgsi.univ-lorraine.fr/enseignant/ferney-osorio/)
+:::
+
+::: clip-mentor
+### [Mauricio Camargo](https://ensgsi.univ-lorraine.fr/enseignant/mauricio-camargo/)
+:::
+::::::::
+
+[Rencontrer l’équipe →](equipe.qmd)
+:::::::::
+
+::::: clip-bottom
+::: clip-support
+## Ce parcours est soutenu par :
+
+![](assets/images/logo-asterie.png){fig-alt="Programme ASTERIE" width="600"}
+
+[Le Projet ASTERIE](https://www.ac-nancy-metz.fr/le-projet-asterie-125636) · [Académie de Nancy-Metz](https://www.ac-nancy-metz.fr/)
+:::
+
+::: clip-contact
+## Restons en contact
+
+Une question sur le programme ou la préparation d’un atelier ?
+
+[Écrire à l’équipe](mailto:ensgsi-clip-contact@univ-lorraine.fr){.btn .btn-outline-primary}
+
+[ensgsi-clip-contact\@univ-lorraine.fr](mailto:ensgsi-clip-contact@univ-lorraine.fr)
+:::
+:::::
+:::::::::::::::::::::::::::::

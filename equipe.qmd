@@ -1,0 +1,25 @@
+---
+title: "L’équipe"
+---
+
+## Les mentors
+
+### Nom du mentor à renseigner
+
+Photo, fonction, institution et courte présentation à ajouter.
+
+### Nom du mentor à renseigner
+
+Photo, fonction, institution et courte présentation à ajouter.
+
+## L’organisation
+
+Présentation de l’équipe organisatrice à ajouter.
+
+## Nos institutions
+
+Noms, logos et liens institutionnels à ajouter.
+
+## Contact
+
+Coordonnées de contact à ajouter.
