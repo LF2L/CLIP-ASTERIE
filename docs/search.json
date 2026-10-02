@@ -1,16 +1,228 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Un parcours pour développer nos espaces d’innovation",
+    "objectID": "ressources/index.html",
+    "href": "ressources/index.html",
+    "title": "Ressources",
     "section": "",
-    "text": "Bienvenue sur la plateforme du parcours d’incubation.\nVous trouverez ici les objectifs des sprints, les consignes des ateliers et les ressources pour avancer avec votre équipe."
+    "text": "Retrouvez ici les ressources communes au parcours. Les supports propres à un sprint seront accessibles depuis sa page."
   },
   {
-    "objectID": "index.html#le-parcours",
-    "href": "index.html#le-parcours",
-    "title": "Un parcours pour développer nos espaces d’innovation",
-    "section": "Le parcours",
-    "text": "Le parcours\n\nSprint 0 — Lancement : construire une compréhension commune.\nSprints suivants : développer et expérimenter les projets.\nSprint final — Clôture : partager les résultats et préparer la suite."
+    "objectID": "ressources/index.html#modèles-et-outils",
+    "href": "ressources/index.html#modèles-et-outils",
+    "title": "Ressources",
+    "section": "Modèles et outils",
+    "text": "Modèles et outils\nModèles de travail et outils à ajouter."
+  },
+  {
+    "objectID": "ressources/index.html#lectures-et-références",
+    "href": "ressources/index.html#lectures-et-références",
+    "title": "Ressources",
+    "section": "Lectures et références",
+    "text": "Lectures et références\nLectures utiles à ajouter."
+  },
+  {
+    "objectID": "ressources/index.html#liens-utiles",
+    "href": "ressources/index.html#liens-utiles",
+    "title": "Ressources",
+    "section": "Liens utiles",
+    "text": "Liens utiles\nSites partenaires et autres liens à ajouter."
+  },
+  {
+    "objectID": "parcours/kickoff.html",
+    "href": "parcours/kickoff.html",
+    "title": "Kick-off — Lancement",
+    "section": "",
+    "text": "NoteConsignes en préparation\n\n\n\nCette page sera complétée avant le lancement du programme.",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Lancement"
+    ]
+  },
+  {
+    "objectID": "parcours/kickoff.html#en-bref",
+    "href": "parcours/kickoff.html#en-bref",
+    "title": "Kick-off — Lancement",
+    "section": "En bref",
+    "text": "En bref\n\n\n\nInformation\nDétail\n\n\n\n\nDate\nÀ confirmer\n\n\nDurée\nÀ préciser\n\n\nLieu ou lien de connexion\nÀ préciser\n\n\nÉquipe d’animation\nÀ renseigner",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Lancement"
+    ]
+  },
+  {
+    "objectID": "parcours/kickoff.html#objectifs",
+    "href": "parcours/kickoff.html#objectifs",
+    "title": "Kick-off — Lancement",
+    "section": "Objectifs",
+    "text": "Objectifs\nObjectifs de l’atelier à préciser.",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Lancement"
+    ]
+  },
+  {
+    "objectID": "parcours/kickoff.html#avant-latelier",
+    "href": "parcours/kickoff.html#avant-latelier",
+    "title": "Kick-off — Lancement",
+    "section": "Avant l’atelier",
+    "text": "Avant l’atelier\nPréparation et matériel à préciser.",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Lancement"
+    ]
+  },
+  {
+    "objectID": "parcours/kickoff.html#pendant-latelier",
+    "href": "parcours/kickoff.html#pendant-latelier",
+    "title": "Kick-off — Lancement",
+    "section": "Pendant l’atelier",
+    "text": "Pendant l’atelier\nDéroulé et consignes à préciser.",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Lancement"
+    ]
+  },
+  {
+    "objectID": "parcours/kickoff.html#après-latelier",
+    "href": "parcours/kickoff.html#après-latelier",
+    "title": "Kick-off — Lancement",
+    "section": "Après l’atelier",
+    "text": "Après l’atelier\nTravail à réaliser avant le prochain sprint à préciser.",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Lancement"
+    ]
+  },
+  {
+    "objectID": "parcours/kickoff.html#livrables",
+    "href": "parcours/kickoff.html#livrables",
+    "title": "Kick-off — Lancement",
+    "section": "Livrables",
+    "text": "Livrables\nRésultats attendus, échéance et modalités de remise à préciser.",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Lancement"
+    ]
+  },
+  {
+    "objectID": "parcours/kickoff.html#ressources",
+    "href": "parcours/kickoff.html#ressources",
+    "title": "Kick-off — Lancement",
+    "section": "Ressources",
+    "text": "Ressources\nSupports et documents utiles à ajouter.",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Lancement"
+    ]
+  },
+  {
+    "objectID": "index.html#le-kick-off",
+    "href": "index.html#le-kick-off",
+    "title": "CLIP-ASTERIE",
+    "section": "Le kick-off",
+    "text": "Le kick-off\nLancement du parcours\nLe programme débute le 14 octobre 2026. La date précise de l’atelier et les consignes de préparation seront confirmées sur sa page.\nPréparer le kick-off\nConsignes en préparation"
+  },
+  {
+    "objectID": "index.html#votre-parcours-en-sept-étapes",
+    "href": "index.html#votre-parcours-en-sept-étapes",
+    "title": "CLIP-ASTERIE",
+    "section": "Votre parcours en sept étapes",
+    "text": "Votre parcours en sept étapes\nChaque étape associe des objectifs, un atelier et des livrables. Les consignes sont dévoilées progressivement.\n\n\n00\n\nKick-off\nLancement\nPage disponible\n\n\n\n01\n\nSprint 1\nÀ venir\n\n\n\n02\n\nSprint 2\nÀ venir\n\n\n\n03\n\nSprint 3\nÀ venir\n\n\n\n04\n\nSprint 4\nÀ venir\n\n\n\n05\n\nSprint 5\nÀ venir\n\n\n\n06\n\nClôture\nÀ venir\n\n\n\nVoir le parcours et le calendrier →"
+  },
+  {
+    "objectID": "index.html#vos-mentors",
+    "href": "index.html#vos-mentors",
+    "title": "CLIP-ASTERIE",
+    "section": "Vos mentors",
+    "text": "Vos mentors\nUniversité de Lorraine · ENSGSI–ERPI\n\n\nÉlodie Sudol\n\n\nMarcos Medina Tabares\n\n\nManon Enjolras\n\n\nFerney Osorio\n\n\nMauricio Camargo\n\n\nRencontrer l’équipe →"
+  },
+  {
+    "objectID": "index.html#ce-parcours-est-soutenu-par",
+    "href": "index.html#ce-parcours-est-soutenu-par",
+    "title": "CLIP-ASTERIE",
+    "section": "Ce parcours est soutenu par :",
+    "text": "Ce parcours est soutenu par :\n\nLe Projet ASTERIE · Académie de Nancy-Metz"
+  },
+  {
+    "objectID": "index.html#restons-en-contact",
+    "href": "index.html#restons-en-contact",
+    "title": "CLIP-ASTERIE",
+    "section": "Restons en contact",
+    "text": "Restons en contact\nUne question sur le programme ou la préparation d’un atelier ?\nÉcrire à l’équipe\nensgsi-clip-contact@univ-lorraine.fr"
+  },
+  {
+    "objectID": "parcours/index.html",
+    "href": "parcours/index.html",
+    "title": "Le parcours",
+    "section": "",
+    "text": "CLIP-ASTERIE accompagne les équipes des espaces d’innovation dans un parcours commun : un kick-off, cinq sprints et une clôture.",
+    "crumbs": [
+      "Le parcours"
+    ]
+  },
+  {
+    "objectID": "parcours/index.html#les-étapes",
+    "href": "parcours/index.html#les-étapes",
+    "title": "Le parcours",
+    "section": "Les étapes",
+    "text": "Les étapes\n\n\n\nÉtape\nDate\nAccès aux consignes\n\n\n\n\nKick-off — Lancement\nÀ confirmer\nPréparer le kick-off\n\n\nSprint 1\nÀ confirmer\nÀ venir\n\n\nSprint 2\nÀ confirmer\nÀ venir\n\n\nSprint 3\nÀ confirmer\nÀ venir\n\n\nSprint 4\nÀ confirmer\nÀ venir\n\n\nSprint 5\nÀ confirmer\nÀ venir\n\n\nClôture\nÀ confirmer\nÀ venir\n\n\n\nLes thèmes et les consignes seront précisés au fur et à mesure du parcours.",
+    "crumbs": [
+      "Le parcours"
+    ]
+  },
+  {
+    "objectID": "parcours/index.html#comment-avancer",
+    "href": "parcours/index.html#comment-avancer",
+    "title": "Le parcours",
+    "section": "Comment avancer ?",
+    "text": "Comment avancer ?\nPour chaque étape, consultez les objectifs, préparez l’atelier, réalisez le travail demandé et partagez les livrables selon les modalités indiquées.",
+    "crumbs": [
+      "Le parcours"
+    ]
+  },
+  {
+    "objectID": "parcours/index.html#les-livrables",
+    "href": "parcours/index.html#les-livrables",
+    "title": "Le parcours",
+    "section": "Les livrables",
+    "text": "Les livrables\nLes modalités de remise, les échéances et les outils de partage seront précisés pour chaque étape.",
+    "crumbs": [
+      "Le parcours"
+    ]
+  },
+  {
+    "objectID": "equipe.html",
+    "href": "equipe.html",
+    "title": "L’équipe",
+    "section": "",
+    "text": "Photo, fonction, institution et courte présentation à ajouter.\n\n\n\nPhoto, fonction, institution et courte présentation à ajouter."
+  },
+  {
+    "objectID": "equipe.html#les-mentors",
+    "href": "equipe.html#les-mentors",
+    "title": "L’équipe",
+    "section": "",
+    "text": "Photo, fonction, institution et courte présentation à ajouter.\n\n\n\nPhoto, fonction, institution et courte présentation à ajouter."
+  },
+  {
+    "objectID": "equipe.html#lorganisation",
+    "href": "equipe.html#lorganisation",
+    "title": "L’équipe",
+    "section": "L’organisation",
+    "text": "L’organisation\nPrésentation de l’équipe organisatrice à ajouter."
+  },
+  {
+    "objectID": "equipe.html#nos-institutions",
+    "href": "equipe.html#nos-institutions",
+    "title": "L’équipe",
+    "section": "Nos institutions",
+    "text": "Nos institutions\nNoms, logos et liens institutionnels à ajouter."
+  },
+  {
+    "objectID": "equipe.html#contact",
+    "href": "equipe.html#contact",
+    "title": "L’équipe",
+    "section": "Contact",
+    "text": "Contact\nCoordonnées de contact à ajouter."
   }
 ]

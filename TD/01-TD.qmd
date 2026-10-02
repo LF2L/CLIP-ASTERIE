@@ -1,8 +1,0 @@
----
-title: "Workshop 1"
-subtitle: "test"
----
-
-\thispagestyle{fancy}
-
-# Exercice 1 - étape 1

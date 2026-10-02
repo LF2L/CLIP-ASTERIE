@@ -3,17 +3,50 @@ project:
   output-dir: docs
   render:
     - index.qmd
+    - parcours/index.qmd
+    - parcours/kickoff.qmd
+    - equipe.qmd
+    - ressources/index.qmd
+
+lang: fr
 
 website:
   title: "CLIP-ASTERIE"
+  search:
+    type: overlay
   navbar:
+    background: light
+    logo: assets/images/icon-ensgsi.png
     left:
       - text: "Accueil"
         href: index.qmd
+      - text: "Le parcours"
+        href: parcours/index.qmd
+      - text: "Ressources"
+        href: ressources/index.qmd
+      - text: "L’équipe"
+        href: equipe.qmd
+  sidebar:
+    - title: "Le parcours"
+      style: floating
+      contents:
+        - parcours/index.qmd
+        - parcours/kickoff.qmd
+  page-footer:
+    left: |
+      Développé par :
+      [![](assets/images/logo-ensgsi.png){fig-alt="ENSGSI" width="100"}](https://www.ensgsi.univ-lorraine.fr/)
+    center:
+      - text: "Université de Lorraine"
+        href: https://www.univ-lorraine.fr/
+    right:
+      - text: "À propos du CLIP"
+        href: https://ensgsi.univ-lorraine.fr/partenaires/clip-programme-incubation-innovation-collaborative/
 
 format:
   html:
     theme: litera
+    css: assets/styles.css
     toc: true
-
-lang: fr
+    toc-title: "Sur cette page"
+    number-sections: false

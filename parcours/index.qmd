@@ -1,0 +1,27 @@
+---
+title: "Le parcours"
+---
+
+CLIP-ASTERIE accompagne les équipes des espaces d’innovation dans un parcours commun : un kick-off, cinq sprints et une clôture.
+
+## Les étapes
+
+| Étape | Date | Accès aux consignes |
+|---|---|---|
+| Kick-off — Lancement | À confirmer | [Préparer le kick-off](kickoff.qmd) |
+| Sprint 1 | À confirmer | À venir |
+| Sprint 2 | À confirmer | À venir |
+| Sprint 3 | À confirmer | À venir |
+| Sprint 4 | À confirmer | À venir |
+| Sprint 5 | À confirmer | À venir |
+| Clôture | À confirmer | À venir |
+
+Les thèmes et les consignes seront précisés au fur et à mesure du parcours.
+
+## Comment avancer ?
+
+Pour chaque étape, consultez les objectifs, préparez l’atelier, réalisez le travail demandé et partagez les livrables selon les modalités indiquées.
+
+## Les livrables
+
+Les modalités de remise, les échéances et les outils de partage seront précisés pour chaque étape.
