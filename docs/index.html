@@ -146,10 +146,16 @@ ul.task-list li input[type="checkbox"] {
 <p><span class="clip-eyebrow">Votre prochaine étape</span></p>
 <section id="le-kick-off" class="level2">
 <h2 data-anchor-id="le-kick-off">Le kick-off</h2>
-<p>Lancement du parcours</p>
-<p>Le programme débute le <strong>14 octobre 2026</strong>. La date précise de l’atelier et les consignes de préparation seront confirmées sur sa page.</p>
+<p>Rendez-vous à la <strong>Cab’Inn</strong> - 8 rue Bastien Lepage, 54000 Nancy.</p>
+<div class="clip-countdown" data-deadline="2026-10-14T10:00:00+02:00" data-timezone="Europe/Paris">
+<div class="clip-countdown-value" role="timer" aria-live="off" aria-label="Temps restant avant la prochaine étape">
+Date à confirmer
+</div>
+<p class="clip-countdown-date">
+</p>
+<p><noscript>Consultez la page de l’étape pour connaître sa date.</noscript></p>
+</div>
 <p><a href="./parcours/kickoff.html" class="btn btn-outline-primary">Préparer le kick-off</a></p>
-<p><span class="clip-status">Consignes en préparation</span></p>
 </section>
 </div>
 </div>
@@ -670,7 +676,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Développé par : <a href="https://www.ensgsi.univ-lorraine.fr/"><img src="assets/images/logo-ensgsi.png" class="img-fluid" alt="ENSGSI" width="100"></a></p>
+<p>Développé par : <a href="https://www.ensgsi.univ-lorraine.fr/"><img src="./assets/images/logo-ensgsi.png" class="img-fluid" alt="ENSGSI" width="100"></a></p>
 </div>   
     <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
@@ -692,6 +698,61 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<style>
+.clip-countdown { margin: 1.4rem 0; border-top: 1px solid var(--clip-line, #e5e1ed); padding-top: 1rem; }
+.clip-countdown .clip-countdown-value { font-family: 'Manrope', Arial, sans-serif; font-size: clamp(1.125rem, 2vw, 1.5rem); font-weight: 700; line-height: 1.4; color: var(--clip-purple, #6500a8); font-variant-numeric: tabular-nums; }
+.clip-countdown .clip-countdown-date { font-size: 1rem; margin: .5rem 0 0; color: var(--clip-muted, #5c6074); }
+</style>
+<script>
+(() => {
+  function remainingText(deadline, now) {
+    const delta = deadline - now;
+    if (delta <= 0) return 'Cette étape a commencé.';
+    const minutes = Math.floor(delta / 60000);
+    if (minutes === 0) return 'Dans moins d’une minute';
+    const days = Math.floor(minutes / 1440);
+    const hours = Math.floor((minutes % 1440) / 60);
+    const mins = minutes % 60;
+    const parts = [];
+    if (days) parts.push(`${days} jour${days > 1 ? 's' : ''}`);
+    if (hours) parts.push(`${hours} h`);
+    if (mins) parts.push(`${mins} min`);
+    return 'Dans ' + parts.join(' · ');
+  }
+  function startCountdowns() {
+    document.querySelectorAll('.clip-countdown').forEach(box => {
+      const value = box.querySelector('.clip-countdown-value');
+      const date = box.querySelector('.clip-countdown-date');
+      if (!value || !date) return;
+      const raw = (box.dataset.deadline || '').trim();
+      if (!raw) { value.textContent = 'Date à confirmer'; return; }
+      // An explicit timezone offset avoids dependence on the visitor's timezone.
+      const isoWithOffset = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:Z|[+-]\d{2}:\d{2})$/;
+      const deadline = Date.parse(raw);
+      if (!isoWithOffset.test(raw) || !Number.isFinite(deadline)) {
+        value.textContent = 'Date à vérifier'; return;
+      }
+      const timeZone = box.dataset.timezone || 'Europe/Paris';
+      try {
+        date.textContent = new Intl.DateTimeFormat('fr-FR', {
+          dateStyle: 'long', timeStyle: 'short', timeZone
+        }).format(new Date(deadline)) + ' · heure de Paris';
+      } catch { value.textContent = 'Fuseau horaire à vérifier'; return; }
+      let timer;
+      function update() {
+        const now = Date.now();
+        value.textContent = remainingText(deadline, now);
+        if (now >= deadline && timer !== undefined) clearInterval(timer);
+      }
+      update();
+      if (Date.now() < deadline) timer = setInterval(update, 1000);
+    });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', startCountdowns, { once: true });
+  } else { startCountdowns(); }
+})();
+</script>
 
 
 

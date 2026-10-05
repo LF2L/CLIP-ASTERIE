@@ -5,6 +5,8 @@ title-block-style: none
 toc: false
 page-layout: custom
 body-classes: clip-home
+include-after-body:
+  - file: assets/countdown.html
 ---
 
 ::::::::::::::::::::::::::::: clip-shell
@@ -28,13 +30,16 @@ Un parcours collectif pour développer vos tiers-lieux éducatifs, expérimenter
 
 ## Le kick-off
 
-Lancement du parcours
+Rendez-vous à la **Cab'Inn** - 8 rue Bastien Lepage, 54000 Nancy.
 
-Le programme débute le **14 octobre 2026**. La date précise de l’atelier et les consignes de préparation seront confirmées sur sa page.
+<div class="clip-countdown" data-deadline="2026-10-14T10:00:00+02:00" data-timezone="Europe/Paris">
+  <div class="clip-countdown-value" role="timer" aria-live="off" aria-label="Temps restant avant la prochaine étape">Date à confirmer</div>
+  <p class="clip-countdown-date"></p>
+  <noscript>Consultez la page de l’étape pour connaître sa date.</noscript>
+</div>
 
 [Préparer le kick-off](parcours/kickoff.qmd){.btn .btn-outline-primary}
 
-[Consignes en préparation]{.clip-status}
 :::
 :::::
 
