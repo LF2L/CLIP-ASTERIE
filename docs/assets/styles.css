@@ -103,3 +103,21 @@ a:focus-visible { outline: 3px solid var(--clip-purple); outline-offset: 4px; }
 @media (max-width: 400px) {
   .clip-mentors { grid-template-columns: 1fr; }
 }
+
+.callout,
+.callout.callout-style-default .callout-body,
+.callout.callout-style-simple .callout-body,
+.callout .callout-body-container {
+  font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+}
+
+/* Callout titles: match the website headings */
+.callout .callout-header,
+.callout .callout-title-container {
+  font-family: "Manrope", "Segoe UI", Arial, sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
