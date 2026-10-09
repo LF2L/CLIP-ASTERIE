@@ -23,10 +23,10 @@ Le parcours poursuit cinq objectifs :
 
 - **Matérialiser les projets** et contribuer à la construction collective d’un démonstrateur du réseau.
 
-- **Rendre les contributions des TLE visibles et discutables**, pour valoriser le travail accompli et ouvrir la voie à de futurs projets.
+- **Rendre les contributions des TLE visibles et reconnues**, pour valoriser le travail accompli et ouvrir la voie à de futurs projets.
 :::
 
-## Un cadre méthodologique pour apprendre en faisant
+## Un cadre méthodologique pour agir et expérimenter
 
 Le CLIP s’appuie sur les travaux de l’ERPI de l’Université de Lorraine consacrés à la conception et pilotage d'espaces d’innovation, notamment le cadre proposé par [Osorio et ses collègues en 2019](https://onlinelibrary.wiley.com/doi/10.1111/caim.12301).
 
@@ -41,12 +41,12 @@ Quatre mouvements structurent le parcours :
 
 - **Matérialiser et mettre à l’épreuve** : construire, déployer et apprendre de l’expérience.
 
-- **Relire et renouveler** : interpréter le chemin parcouru et ouvrir de nouvelles perspectives.
+- **Revisiter et renouveler** : réinterpréter le chemin parcouru et ouvrir de nouvelles perspectives.
 :::
 
 Ces mouvements donnent des repères tout en permettant des retours et des ajustements. Les projets prennent forme progressivement, et les enseignements de l’expérimentation peuvent conduire à revoir les choix initiaux.
 
-![](images/paste-1.png)
+![](/assets/images/CLIP-Framework-v1.2.png){fig-alt="Cadre méthodologique CLIP-ASTERIE" width="100%"}
 
 La désirabilité, la faisabilité et la viabilité d'un projet d'innovation sont ainsi des questions revisitées tout au long du parcours. L’évaluation continue permet de documenter les apprentissages et de mieux comprendre la contribution des projets et du réseau aux territoires.
 
@@ -55,7 +55,7 @@ La désirabilité, la faisabilité et la viabilité d'un projet d'innovation son
 | Étape | Date | Objectif |
 |---------------------|------------------|---------------------------------|
 | [Kick-off](/parcours/kickoff.qmd) | 14/10/2026 | Le lancement permet de mettre en commun les besoins des TLE, de poser les premières bases de l’intention stratégique du réseau et de définir les projets prioritaires qui guideront la formation. |
-| [Sprint 1](/parcours/sprint1.qmd) | du 14/10 au 18/11/2026 | Comprendre les territoires, leurs acteurs, leurs besoins et les initiatives existantes permet de préciser les opportunités d’action et les relations à mobiliser. |
+| [Sprint 1](/parcours/sprint1.qmd) | du 14/10 au 18/11/2026 | Comprendre le territoire, ses acteurs et nous-mêmes en tant que réseau, afin d'identifier les forces et les obstacles existants, ainsi que les opportunités d'action. |
 | Sprint 2 | du 19/11/2026 au 06/01/2027 | Les premières hypothèses sont confrontées au terrain. Les retours recueillis aident à préciser les besoins, à questionner les choix de départ et à ajuster les projets. |
 | Sprint 3 | du 07/01 au 10/02/2027 | Les équipes clarifient ce que leurs projets apportent, à qui et dans quelles conditions. Elles développent des propositions et des supports concrets pour les partager et les faire évoluer. |
 | Sprint 4 | du 11/02 au 24/03/2027 | Le travail porte sur les conditions de mise en œuvre : ressources, compétences, partenaires, répartition des rôles et organisation du déploiement du démonstrateur. |

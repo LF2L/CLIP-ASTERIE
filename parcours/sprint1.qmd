@@ -1,5 +1,5 @@
 ---
-title: "Sprint 1 — Tests & pivot"
+title: "Sprint 1 — Ancrer"
 ---
 
 ::: {.callout-note title="Consignes en préparation"}

@@ -1,5 +1,5 @@
 ---
-title: "Kick-off — Lancement"
+title: "Kick-off — Ambition Commune"
 ---
 
 ::: {.callout-note title="Consignes en préparation"}

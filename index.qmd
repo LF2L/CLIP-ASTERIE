@@ -76,7 +76,7 @@ Chaque étape associe des objectifs, un atelier et des livrables. Les consignes 
 
 ### [Kick-off](parcours/kickoff.qmd)
 
-Lancement
+Ambition commune
 
 [Page disponible]{.clip-status}
 :::
@@ -86,7 +86,7 @@ Lancement
 
 ### [Sprint 1](parcours/sprint1.qmd)
 
-Tests & pivot
+Ancrer
 
 [À venir]{.clip-status}
 :::

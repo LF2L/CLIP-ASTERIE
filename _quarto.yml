@@ -38,6 +38,7 @@ website:
     left: |
       Développé par :
       [![](/assets/images/logo-ensgsi.png){fig-alt="ENSGSI" width="100"}](https://www.ensgsi.univ-lorraine.fr/)
+      [![](/assets/images/logo-erpi.png){fig-alt="ERPI" width="100"}](https://erpi.univ-lorraine.fr/)
     center:
       - text: "Université de Lorraine"
         href: https://www.univ-lorraine.fr/
