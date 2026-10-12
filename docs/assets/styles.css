@@ -121,3 +121,29 @@ a:focus-visible { outline: 3px solid var(--clip-purple); outline-offset: 4px; }
   font-weight: 600;
   line-height: 1.4;
 }
+
+/* Blockquotes throughout the website */
+blockquote {
+  font-family: "Source Sans 3", "Segoe UI", Arial, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.6;
+  font-style: normal;
+  color: var(--clip-ink);
+  background: var(--clip-soft);
+  border-left: 4px solid var(--clip-purple);
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0;
+  border-radius: 0 8px 8px 0;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/* Inside callouts: reduce the visual layering */
+.callout blockquote {
+  font-size: inherit;
+  background: transparent;
+  padding: .5rem 1rem;
+  margin: 1rem 0;
+}

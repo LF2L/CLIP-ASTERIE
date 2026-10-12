@@ -2,39 +2,62 @@
 title: "Kick-off — Ambition Commune"
 ---
 
-::: {.callout-note title="Consignes en préparation"}
-Cette page sera complétée avant le lancement du programme.
+***Partir de nos réussites, révéler nos forces et choisir les projets qui nous feront avancer ensemble.***
+
+::: {.callout-note appearance="minimal"}
+Cette journée marque le lancement de CLIP-ASTERIE. Elle nous permettra de découvrir les expériences des différents TLE, de rendre visibles leurs ressources et d’imaginer des projets à développer collectivement au fil du parcours.
+
+Nous partirons de ce que vous avez déjà accompli pour explorer ce que vous souhaitez construire demain. Les échanges et les ateliers feront émerger des ambitions communes et de premières équipes de travail.
 :::
 
-## En bref
+## Notre rendez-vous
 
 | Information | Détail |
-|---|---|
-| Date | À confirmer |
-| Durée | À préciser |
-| Lieu ou lien de connexion | À préciser |
-| Équipe d’animation | À renseigner |
+|------------------------------------|------------------------------------|
+| Date | **Mercredi 14 octobre 2026** |
+| Durée | **9 h 30 à 16 h** |
+| Lieu ou lien de connexion | **La Cab’Inn — ENSGSI -** 8 rue Bastien Lepage, Nancy |
 
-## Objectifs
+## Un lieu pour imaginer et construire ensemble
 
-Objectifs de l’atelier à préciser.
+Nous nous retrouverons à la [**Cab’Inn**](https://ensgsi.univ-lorraine.fr/vie-de-lecole/la-maison-dhda-devient-la-cabinn-un-nouveau-lieu-dedie-a-linnovation-durable-a-lensgsi/), le nouvel espace de l’ENSGSI dédié aux ateliers collaboratifs et aux réflexions partagées. Sa construction en bois, à partir de matériaux locaux et dans une logique de sobriété et d’économie circulaire, en fait un démonstrateur à part entière des transitions et de l’innovation durable. Cet environnement résonnera directement avec les problématiques que nous explorerons à travers vos projets.
 
-## Avant l’atelier
+![](/assets/images/Cab_Inn_ENSGSI.jpg){fig-alt="Cab'Inn - ENSGSI" width="100%"}
 
-Préparation et matériel à préciser.
+## Les objectifs de la journée
 
-## Pendant l’atelier
+- Imaginer des projets souhaitables pour les territoires à l’horizon de cinq ans.
 
-Déroulé et consignes à préciser.
+- Identifier les forces, les compétences, les acteurs et les ressources sur lesquels s’appuyer.
 
-## Après l’atelier
+- Faire émerger et amorcer jusqu’à trois grandes orientations de projets communs.
 
-Travail à réaliser avant le prochain sprint à préciser.
+## Le programme
 
-## Livrables
+| Horaire | Temps de la journée |
+|------------------------------------|------------------------------------|
+| **9 h 30 – 10 h** | Accueil café |
+| **10 h – 10 h 30** | Présentation de l’édition CLIP-ASTERIE |
+| **10 h 30 – 11 h** | Échauffement : « Tiers-Lieux vs Monsieur Tentacules » |
+| **11 h – 12 h 30** | Atelier « Là-haut » — Nos projets fierté et nos forces |
+| **12 h 30 – 13 h 30** | Pause déjeuner |
+| **13 h 30 – 15 h 30** | Reprise atelier « Là-haut » — Nos dirigeables |
+| **15 h 30 – 16 h** | Modalités de fonctionnement et lancement du Sprint 1 |
 
-Résultats attendus, échéance et modalités de remise à préciser.
+## À l’issue de la journée
 
-## Ressources
+Nous aurons constitué une première base commune :
 
-Supports et documents utiles à ajouter.
+- Les projets fierté et les forces identifiées pour chaque TLE.
+
+- Une carte permettant de situer ces expériences et ces ressources.
+
+- Jusqu’à trois grandes orientations de projets communs.
+
+- Une première piste du cap et des contributions potentielles.
+
+Ces éléments seront repris et approfondis au fil des sprints.
+
+## Supports et traces de la journée
+
+Les supports d’atelier, les productions et les principales décisions seront rassemblés ici pour vous permettre de retrouver les points de départ du parcours.

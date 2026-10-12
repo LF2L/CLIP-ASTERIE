@@ -8,33 +8,44 @@ Cette page sera complétée avant le lancement du programme.
 
 ## En bref
 
-| Information | Détail |
-|---|---|
-| Date | À confirmer |
-| Durée | À préciser |
-| Lieu ou lien de connexion | À préciser |
-| Équipe d’animation | À renseigner |
+![](/assets/images/CLIP-S1.png){fig-alt="Sprint 1 — Ancrer" width="100%"}
 
-## Objectifs
+Lors du kick-off, vous avez imaginé des projets souhaitables et rejoint l’un des trois dirigeables. Pour ce premier sprint, vous travaillerez avec votre groupe pour explorer les conditions qui permettront de donner forme à cette ambition commune.
 
-Objectifs de l’atelier à préciser.
+Vous identifierez les difficultés à anticiper, les rôles et compétences mobilisables, ainsi que les appuis disponibles autour de vous. Vous pourrez ensuite dégager de premières opportunités d’action.
 
-## Avant l’atelier
+## Votre objectifs
 
-Préparation et matériel à préciser.
+::: {.callout-tip appearance="minimal"}
+Comprendre le territoire, ses acteurs et nous-mêmes en tant que réseau, afin d’identifier les forces et les obstacles existants, ainsi que les opportunités d’action.
 
-## Pendant l’atelier
+> ***Durée du sprint :** du 14 octobre au 18 novembre 2026.*
+:::
 
-Déroulé et consignes à préciser.
+À la fin du sprint, votre groupe disposera d’une première lecture des **obstacles à surmonter, des capacités à mobiliser et des ressources à solliciter** pour faire avancer son projet.
 
-## Après l’atelier
+## Accéder au tableau de votre groupe
 
-Travail à réaliser avant le prochain sprint à préciser.
+Chaque dirigeable dispose de son propre tableau Miro. Ce tableau rassemble les supports des activités proposées et accueillera vos contributions tout au long du sprint.
 
-## Livrables
+**Ouvrez le tableau correspondant au dirigeable choisi lors du kick-off :**
 
-Résultats attendus, échéance et modalités de remise à préciser.
+- **Dirigeable 1 — \[Nom du groupe ou du projet\]** : Accéder au tableau Miro
 
-## Ressources
+- **Dirigeable 2 — \[Nom du groupe ou du projet\]** : Accéder au tableau Miro
 
-Supports et documents utiles à ajouter.
+- **Dirigeable 3 — \[Nom du groupe ou du projet\]** : Accéder au tableau Miro
+
+Conservez vos contributions dans ce tableau : elles constitueront la mémoire de votre travail et serviront de support aux échanges avec les mentors.
+
+## À partager en fin de sprint
+
+Rassemblez dans le tableau Miro de votre groupe :
+
+- Les principaux obstacles identifiés.
+
+- Les enseignements de l’auto-évaluation utiles au travail collectif.
+
+- Les ressources mobilisables et les appuis à rechercher.
+
+- Les opportunités d’action et les questions à approfondir.
