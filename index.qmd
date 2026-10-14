@@ -28,17 +28,19 @@ Un parcours collectif pour développer vos tiers-lieux éducatifs, expérimenter
 ::: clip-next
 [Votre prochaine étape]{.clip-eyebrow}
 
-## Le kick-off
+## Sprint 1 - Ancrer
 
-Rendez-vous à la **Cab'Inn** - 8 rue Bastien Lepage, 54000 Nancy.
+[À venir]{.clip-status}
 
-<div class="clip-countdown" data-deadline="2026-10-14T10:00:00+02:00" data-timezone="Europe/Paris">
+Rendez-vous sur l'espace virtuel du CLIP-ASTERIE.
+
+<div class="clip-countdown" data-deadline="2026-11-19T15:00:00+02:00" data-timezone="Europe/Paris">
   <div class="clip-countdown-value" role="timer" aria-live="off" aria-label="Temps restant avant la prochaine étape">Date à confirmer</div>
   <p class="clip-countdown-date"></p>
   <noscript>Consultez la page de l’étape pour connaître sa date.</noscript>
 </div>
 
-[Préparer le kick-off](parcours/kickoff.qmd){.btn .btn-outline-primary}
+[Finaliser le Sprint 1](parcours/sprint1.qmd){.btn .btn-outline-primary}
 
 :::
 :::::
