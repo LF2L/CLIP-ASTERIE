@@ -2,50 +2,58 @@
 title: "Sprint 1 — Ancrer"
 ---
 
-::: {.callout-note title="Consignes en préparation"}
-Cette page sera complétée avant le lancement du programme.
+::: {.callout-note appearance="minimal"}
+***Choisir un projet qui vous motive et que vous souhaitez faire avancer dans le cadre du CLIP-ASTERIE***
+
+> ***Durée du sprint :** du 14 octobre au 18 novembre 2026.*
 :::
 
 ## En bref
 
 ![](/assets/images/CLIP-S1.png){fig-alt="Sprint 1 — Ancrer" width="100%"}
 
-Lors du kick-off, vous avez imaginé des projets souhaitables et rejoint l’un des trois dirigeables. Pour ce premier sprint, vous travaillerez avec votre groupe pour explorer les conditions qui permettront de donner forme à cette ambition commune.
+Lors de notre journée d’ateliers du 14 octobre, nous avons fait émerger trois ambitions communes, représentées par les dirigeables :
 
-Vous identifierez les difficultés à anticiper, les rôles et compétences mobilisables, ainsi que les appuis disponibles autour de vous. Vous pourrez ensuite dégager de premières opportunités d’action.
+::: {.callout-important appearance="minimal"}
+- **Le TLE autonome.**
 
-## Votre objectifs
+- **Le TLE comme lieu ouvert.**
 
-::: {.callout-tip appearance="minimal"}
-Comprendre le territoire, ses acteurs et nous-mêmes en tant que réseau, afin d’identifier les forces et les obstacles existants, ainsi que les opportunités d’action.
-
-> ***Durée du sprint :** du 14 octobre au 18 novembre 2026.*
+- **Le TLE vecteur de bien-être et de lien humain.**
 :::
 
-À la fin du sprint, votre groupe disposera d’une première lecture des **obstacles à surmonter, des capacités à mobiliser et des ressources à solliciter** pour faire avancer son projet.
+Ce premier sprint vous invite à relier ces ambitions à des projets concrets, en cours ou à venir dans votre TLE.
 
-## Accéder au tableau de votre groupe
+Les temps de travail du CLIP-ASTERIE vous permettront d’explorer ces projets, d’expérimenter des méthodes et des outils, puis de partager vos apprentissages. Appuyez-vous sur vos préoccupations et vos envies : **l’essentiel est de choisir un projet qui fait sens pour vous et votre TLE.**
 
-Chaque dirigeable dispose de son propre tableau Miro. Ce tableau rassemble les supports des activités proposées et accueillera vos contributions tout au long du sprint.
+## Les repères du sprint
 
-**Ouvrez le tableau correspondant au dirigeable choisi lors du kick-off :**
+Ce sprint comprend trois activités, dévoilées progressivement pour vous accompagner pas à pas.
 
-- **Dirigeable 1 — \[Nom du groupe ou du projet\]** : Accéder au tableau Miro
+- Cette semaine : découvrir Miro, identifier vos projets et choisir celui que vous souhaitez explorer.
 
-- **Dirigeable 2 — \[Nom du groupe ou du projet\]** : Accéder au tableau Miro
+- Lundi 26 octobre : ouverture de la deuxième activité. Un nouveau message vous guidera dans la suite du travail.
 
-- **Dirigeable 3 — \[Nom du groupe ou du projet\]** : Accéder au tableau Miro
+- La troisième activité sera présentée dans un second temps.
 
-Conservez vos contributions dans ce tableau : elles constitueront la mémoire de votre travail et serviront de support aux échanges avec les mentors.
+**Prévoyez environ 1 h 30 de travail autonome par semaine, dans le cadre du temps consacré au programme.**
 
-## À partager en fin de sprint
+## Votre espace de travail sur Miro
 
-Rassemblez dans le tableau Miro de votre groupe :
+Toutes les activités du sprint se déroulent dans **un tableau Miro commun**. Chacune et chacun y dispose d’un espace personnel pour développer ses réflexions et documenter son projet.
 
-- Les principaux obstacles identifiés.
+::: {.callout-warning appearance="simple"}
+## Activité 1
 
-- Les enseignements de l’auto-évaluation utiles au travail collectif.
+Prendre ses marques et choisir son projet. À réaliser cette semaine, avant l’ouverture de l’activité suivante le 26 octobre.
 
-- Les ressources mobilisables et les appuis à rechercher.
+**Accéder au tableau Miro du Sprint 1 \[[cliquez ici](https://miro.com/app/board/uXjVEee1Elo=/?share_link_id=218643546910)\]**
+:::
 
-- Les opportunités d’action et les questions à approfondir.
+Retrouvez votre espace et conservez-y vos contributions : vous les reprendrez et les enrichirez au fil des activités.
+
+## Besoin d’un appui ?
+
+L’équipe ERPI/ENSGSI vous accompagne tout au long du parcours. Signalez vos difficultés de prise en main de Miro et les questions rencontrées dans le choix ou la description de votre projet.
+
+Contactez nous à l'adresse suivante : **ensgsi-clip-contact\@univ-lorraine.fr**

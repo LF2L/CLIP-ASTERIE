@@ -30,7 +30,7 @@ Un parcours collectif pour développer vos tiers-lieux éducatifs, expérimenter
 
 ## Sprint 1 - Ancrer
 
-[À venir]{.clip-status}
+[En cours]{.clip-status}
 
 Rendez-vous sur l'espace virtuel du CLIP-ASTERIE.
 
@@ -83,14 +83,14 @@ Ambition commune
 [Page disponible]{.clip-status}
 :::
 
-::: clip-stage
+::: {.clip-stage .clip-stage-open}
 [01]{.clip-step}
 
 ### [Sprint 1](parcours/sprint1.qmd)
 
 Ancrer
 
-[À venir]{.clip-status}
+[Page disponible]{.clip-status}
 :::
 
 ::: clip-stage
