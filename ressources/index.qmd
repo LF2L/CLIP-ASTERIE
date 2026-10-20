@@ -1,17 +1,66 @@
 ---
 title: "Ressources"
+pagetitle: "Ressources — CLIP-ASTERIE"
+title-block-style: none
+toc: false
+page-layout: full
+include-in-header:
+  - text: |
+      <style>
+      .resources-soon {
+        display: grid;
+        grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+        align-items: center;
+        gap: clamp(1.5rem, 4vw, 3rem);
+        max-width: 1120px;
+        margin: 2rem auto 3rem;
+      }
+      .resources-soon > * { min-width: 0; }
+      .resources-soon img { width: 100%; height: auto; border-radius: 16px; }
+      .resources-soon figure, .resources-soon figure p { margin: 0; }
+      .resources-soon figcaption { display: none; }
+      .resources-soon h1 {
+        font-size: clamp(2rem, 3.5vw, 2.75rem);
+        line-height: 1.2;
+        margin: .6rem 0 1.25rem;
+      }
+      .resources-soon .resources-label {
+        color: var(--clip-purple, #6500a8);
+        font-size: 1rem;
+        font-weight: 600;
+      }
+      .resources-soon .resources-actions { margin-top: 1.5rem; }
+      .resources-soon .resources-actions .btn { margin: 0 .5rem .75rem 0; }
+      @media (max-width: 800px) {
+        .resources-soon { grid-template-columns: 1fr; margin-top: 1rem; }
+        .resources-soon .resources-art { max-width: 480px; margin: 0 auto; }
+      }
+      </style>
 ---
 
-Retrouvez ici les ressources communes au parcours. Les supports propres à un sprint seront accessibles depuis sa page.
+::::: {.resources-soon}
 
-## Modèles et outils
+::: {.resources-art}
+![Une équipe assemble une grande ampoule autour d’une boîte à outils et d’un carnet d’idées.](../assets/images/ressources-coulisses.png)
+:::
 
-Modèles de travail et outils à ajouter.
+:::: {.resources-copy}
+[La boîte à outils du parcours]{.resources-label}
 
-## Lectures et références
+# Ça cogite en coulisses…
 
-Lectures utiles à ajouter.
+On rassemble les outils, on peaufine les modèles et on range les bonnes idées.
 
-## Liens utiles
+**Les premières ressources arrivent au fil des sprints.** Vous retrouverez bientôt ici des modèles, des outils et des lectures pour faire avancer votre tiers-lieu éducatif.
 
-Sites partenaires et autres liens à ajouter.
+En attendant, les consignes et les supports déjà disponibles vous attendent sur les pages du parcours.
+
+::: {.resources-actions}
+[Explorer le parcours](../parcours/index.qmd){.btn .btn-primary}
+[Nous écrire](mailto:ensgsi-clip-contact@univ-lorraine.fr){.btn .btn-outline-primary}
+:::
+
+Une ressource vous serait utile dès maintenant ? Faites-nous signe !
+::::
+
+:::::
