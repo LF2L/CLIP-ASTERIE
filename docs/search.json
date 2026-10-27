@@ -33,7 +33,7 @@
     "href": "parcours/sprint1.html#les-repères-du-sprint",
     "title": "Sprint 1 — Ancrer",
     "section": "Les repères du sprint",
-    "text": "Les repères du sprint\nCe sprint comprend trois activités, dévoilées progressivement pour vous accompagner pas à pas.\n\nCette semaine : découvrir Miro, identifier vos projets et choisir celui que vous souhaitez explorer.\nLundi 26 octobre : ouverture de la deuxième activité. Un nouveau message vous guidera dans la suite du travail.\nLa troisième activité sera présentée dans un second temps.\n\nPrévoyez environ 1 h 30 de travail autonome par semaine, dans le cadre du temps consacré au programme.",
+    "text": "Les repères du sprint\nCe sprint comprend trois activités, dévoilées progressivement pour vous accompagner pas à pas.\n\nDécouvrir Miro, identifier vos projets et choisir celui que vous souhaitez explorer.\nLundi 26 octobre : ouverture de la deuxième activité. Un nouveau message vous guidera dans la suite du travail.\nLa troisième activité sera présentée dans un second temps.\n\nPrévoyez environ 1 h 30 de travail autonome par semaine, dans le cadre du temps consacré au programme.",
     "crumbs": [
       "Le parcours",
       "Sprint 1 — Ancrer"
@@ -44,7 +44,7 @@
     "href": "parcours/sprint1.html#votre-espace-de-travail-sur-miro",
     "title": "Sprint 1 — Ancrer",
     "section": "Votre espace de travail sur Miro",
-    "text": "Votre espace de travail sur Miro\nToutes les activités du sprint se déroulent dans un tableau Miro commun. Chacune et chacun y dispose d’un espace personnel pour développer ses réflexions et documenter son projet.\n\n\n\n\n\n\nAvertissementActivité 1\n\n\n\nPrendre ses marques et choisir son projet. À réaliser cette semaine, avant l’ouverture de l’activité suivante le 26 octobre.\nAccéder au tableau Miro du Sprint 1 [cliquez ici]\n\n\nRetrouvez votre espace et conservez-y vos contributions : vous les reprendrez et les enrichirez au fil des activités.",
+    "text": "Votre espace de travail sur Miro\nToutes les activités du sprint se déroulent dans un tableau Miro commun. Chacune et chacun y dispose d’un espace personnel pour développer ses réflexions et documenter son projet.\n\n\n\n\n\n\nAvertissementActivité 1\n\n\n\nPrendre ses marques et choisir son projet. À réaliser cette semaine, avant l’ouverture de l’activité suivante le 26 octobre.\nAccéder au tableau Miro du Sprint 1 [cliquez ici]\nRetrouvez votre espace et conservez-y vos contributions : vous les reprendrez et les enrichirez au fil des activités.\n\n\n\n\n\n\n\n\nAvertissementActivité 2\n\n\n\nDans votre TLE, vous mobilisez différentes compétences pour faire émerger des idées, accompagner les personnes, organiser l’action et concrétiser les projets. Cette activité vous propose un temps de réflexion individuelle sur votre manière de contribuer à un projet d’innovation.\n\na. Réaliser votre auto-évaluation\nInstallez-vous au calme et répondez au questionnaire en vous appuyant sur vos expériences concrètes de direction de tiers-lieu et de conduite de projets.\nVos réponses reflètent la perception que vous avez aujourd’hui de vos compétences.\nCommencer mon auto-évaluation [cliquez ici]\nÀ la fin du questionnaire, prenez le temps de lire vos résultats, puis exportez-les à l’aide de la fonction proposée dans l’outil ou d’une capture d’écran.\n\n\nb. Déposer vos résultats dans Miro\nRetournez dans le tableau Miro commun de l’activité 1. Dans votre espace personnel, repérez la zone dédiée à l’activité 2 et importez l’image exporté. Le tableau a été mis à jour pour accueillir vos résultats.",
     "crumbs": [
       "Le parcours",
       "Sprint 1 — Ancrer"
@@ -188,6 +188,28 @@
     ]
   },
   {
+    "objectID": "parcours/kickoff.html#retour-sur-le-kick-off",
+    "href": "parcours/kickoff.html#retour-sur-le-kick-off",
+    "title": "Kick-off — Ambition Commune",
+    "section": "Retour sur le kick-off",
+    "text": "Retour sur le kick-off\n\n\n\n\n\n\nLe 14 octobre 2026, nous nous sommes retrouvés à la Cab’Inn de l’ENSGSI, à Nancy, pour lancer le parcours CLIP-ASTERIE.\nÀ partir de leurs projets fierté, les participantes ont partagé les forces, les compétences et les ressources de leurs TLE. Elles ont ensuite imaginé des projets rêvés et rapproché leurs idées pour faire émerger des ambitions communes pour le réseau des TLE.\n\n\n\nRetrouvez dans cette infographie le fil des ateliers de la journée.",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Ambition Commune"
+    ]
+  },
+  {
+    "objectID": "parcours/kickoff.html#trois-ambitions-pour-poursuivre-le-parcours",
+    "href": "parcours/kickoff.html#trois-ambitions-pour-poursuivre-le-parcours",
+    "title": "Kick-off — Ambition Commune",
+    "section": "Trois ambitions pour poursuivre le parcours",
+    "text": "Trois ambitions pour poursuivre le parcours\nCes échanges ont fait émerger trois ambitions, représentées par les dirigeables :\n\nLe TLE autonome.\nLe TLE comme lieu ouvert.\nLe TLE vecteur de bien-être et de lien humain.",
+    "crumbs": [
+      "Le parcours",
+      "Kick-off — Ambition Commune"
+    ]
+  },
+  {
     "objectID": "parcours/kickoff.html#notre-rendez-vous",
     "href": "parcours/kickoff.html#notre-rendez-vous",
     "title": "Kick-off — Ambition Commune",
@@ -237,17 +259,6 @@
     "title": "Kick-off — Ambition Commune",
     "section": "À l’issue de la journée",
     "text": "À l’issue de la journée\nNous aurons constitué une première base commune :\n\nLes projets fierté et les forces identifiées pour chaque TLE.\nUne carte permettant de situer ces expériences et ces ressources.\nJusqu’à trois grandes orientations de projets communs.\nUne première piste du cap et des contributions potentielles.\n\nCes éléments seront repris et approfondis au fil des sprints.",
-    "crumbs": [
-      "Le parcours",
-      "Kick-off — Ambition Commune"
-    ]
-  },
-  {
-    "objectID": "parcours/kickoff.html#supports-et-traces-de-la-journée",
-    "href": "parcours/kickoff.html#supports-et-traces-de-la-journée",
-    "title": "Kick-off — Ambition Commune",
-    "section": "Supports et traces de la journée",
-    "text": "Supports et traces de la journée\nLes supports d’atelier, les productions et les principales décisions seront rassemblés ici pour vous permettre de retrouver les points de départ du parcours.",
     "crumbs": [
       "Le parcours",
       "Kick-off — Ambition Commune"

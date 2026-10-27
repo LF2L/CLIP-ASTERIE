@@ -30,7 +30,7 @@ Les temps de travail du CLIP-ASTERIE vous permettront d’explorer ces projets, 
 
 Ce sprint comprend trois activités, dévoilées progressivement pour vous accompagner pas à pas.
 
-- Cette semaine : découvrir Miro, identifier vos projets et choisir celui que vous souhaitez explorer.
+- Découvrir Miro, identifier vos projets et choisir celui que vous souhaitez explorer.
 
 - Lundi 26 octobre : ouverture de la deuxième activité. Un nouveau message vous guidera dans la suite du travail.
 
@@ -48,9 +48,29 @@ Toutes les activités du sprint se déroulent dans **un tableau Miro commun**. C
 Prendre ses marques et choisir son projet. À réaliser cette semaine, avant l’ouverture de l’activité suivante le 26 octobre.
 
 **Accéder au tableau Miro du Sprint 1 \[[cliquez ici](https://miro.com/app/board/uXjVEee1Elo=/?share_link_id=218643546910)\]**
-:::
 
 Retrouvez votre espace et conservez-y vos contributions : vous les reprendrez et les enrichirez au fil des activités.
+:::
+
+::: {.callout-warning appearance="simple"}
+## Activité 2
+
+Dans votre TLE, vous mobilisez différentes compétences pour faire émerger des idées, accompagner les personnes, organiser l’action et concrétiser les projets. Cette activité vous propose un temps de réflexion individuelle sur votre manière de contribuer à un projet d’innovation.
+
+### a. Réaliser votre auto-évaluation
+
+Installez-vous au calme et répondez au questionnaire en vous appuyant sur vos expériences concrètes de direction de tiers-lieu et de conduite de projets.
+
+Vos réponses reflètent la perception que vous avez aujourd’hui de vos compétences.
+
+**Commencer mon auto-évaluation \[[cliquez ici](https://script.google.com/macros/s/AKfycbyCYjuk9IZKnaep-ZUl0F8gs0OF6JALDefxB0alEtORQZu5pxk27inAwcMAUqUjc6BeaQ/exec)\]**
+
+À la fin du questionnaire, prenez le temps de lire vos résultats, puis **exportez-les à l’aide de la fonction proposée dans l’outil ou d'une capture d'écran**.
+
+### b. Déposer vos résultats dans Miro
+
+Retournez dans **le tableau Miro commun de l'activité 1**. Dans votre espace personnel, repérez la zone dédiée à l’activité 2 et importez l'image exporté. Le tableau a été mis à jour pour accueillir vos résultats.
+:::
 
 ## Besoin d’un appui ?
 

@@ -4,11 +4,28 @@ title: "Kick-off — Ambition Commune"
 
 ***Partir de nos réussites, révéler nos forces et choisir les projets qui nous feront avancer ensemble.***
 
-::: {.callout-note appearance="minimal"}
-Cette journée marque le lancement de CLIP-ASTERIE. Elle nous permettra de découvrir les expériences des différents TLE, de rendre visibles leurs ressources et d’imaginer des projets à développer collectivement au fil du parcours.
+## Retour sur le kick-off
 
-Nous partirons de ce que vous avez déjà accompli pour explorer ce que vous souhaitez construire demain. Les échanges et les ateliers feront émerger des ambitions communes et de premières équipes de travail.
+::: {.callout-note appearance="simple"}
+Le 14 octobre 2026, nous nous sommes retrouvés à la Cab’Inn de l’ENSGSI, à Nancy, pour lancer le parcours CLIP-ASTERIE.
+
+À partir de leurs projets fierté, les participantes ont partagé les forces, les compétences et les ressources de leurs TLE. Elles ont ensuite imaginé des projets rêvés et rapproché leurs idées pour faire émerger des ambitions communes pour le réseau des TLE.
 :::
+
+**Retrouvez dans cette infographie le fil des ateliers de la journée.**
+
+![](/assets/images/montage-02-midres.png){fig-alt="Infographie du kick-off" width="100%"}
+
+## Trois ambitions pour poursuivre le parcours
+
+Ces échanges ont fait émerger trois ambitions, représentées par les dirigeables :
+
+- **Le TLE autonome.**
+
+- **Le TLE comme lieu ouvert.**
+
+- **Le TLE vecteur de bien-être et de lien humain.**
+
 
 ## Notre rendez-vous
 
@@ -57,7 +74,3 @@ Nous aurons constitué une première base commune :
 - Une première piste du cap et des contributions potentielles.
 
 Ces éléments seront repris et approfondis au fil des sprints.
-
-## Supports et traces de la journée
-
-Les supports d’atelier, les productions et les principales décisions seront rassemblés ici pour vous permettre de retrouver les points de départ du parcours.
