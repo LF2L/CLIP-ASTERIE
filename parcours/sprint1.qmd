@@ -72,6 +72,22 @@ Vos réponses reflètent la perception que vous avez aujourd’hui de vos compé
 Retournez dans **le tableau Miro commun de l'activité 1**. Dans votre espace personnel, repérez la zone dédiée à l’activité 2 et importez l'image exporté. Le tableau a été mis à jour pour accueillir vos résultats.
 :::
 
+::: {.callout-warning appearance="simple"}
+## Activité 3
+
+Vous avez choisi un projet et exploré vos compétences. Cette troisième activité vous invite à porter différents regards sur ce projet grâce aux six chapeaux de Bono. 🎩
+
+Chaque chapeau propose une manière de réfléchir : s’appuyer sur les faits, exprimer ses ressentis, repérer les difficultés, reconnaître les bénéfices, imaginer des possibilités et organiser la suite.
+
+### **Rendez-vous** dans le tableau Miro :
+
+1.  Retrouvez l’espace de l’activité 3 et suivez les consignes de chaque chapeau.
+
+2.  Notez vos réflexions individuelles, une idée par post-it.
+
+3.  Repérez les questions et les idées que vous souhaitez discuter lors du partage collectif.
+:::
+
 ## Besoin d’un appui ?
 
 L’équipe ERPI/ENSGSI vous accompagne tout au long du parcours. Signalez vos difficultés de prise en main de Miro et les questions rencontrées dans le choix ou la description de votre projet.
