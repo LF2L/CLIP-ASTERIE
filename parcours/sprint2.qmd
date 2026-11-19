@@ -1,0 +1,69 @@
+---
+title: "Sprint 2 — Explorer et ajuster"
+---
+
+::: {.callout-note appearance="minimal"}
+***Aller sur le terrain pour mieux comprendre les besoins liés à votre projet, formuler des hypothèses et choisir comment les mettre à l’épreuve***
+
+> ***Durée du sprint :** du 19 novembre au 6 janvier 2027.*
+:::
+
+## En bref
+
+![](/assets/images/CLIP-S2.png){fig-alt="Sprint 2 — Explorer et ajuster" width="100%"}
+
+Au Sprint 1, vous avez choisi un projet lié à l’une ou plusieurs des ambitions communes du réseau, pris du recul sur vos compétences et exploré votre projet sous plusieurs angles avec les six chapeaux de Bono.
+
+Ce sprint commence par une rencontre ou une observation. Choisissez une situation liée à votre projet que vous aimeriez mieux comprendre. Ce que vous entendrez ou observerez vous aidera à préciser le besoin, à revoir vos premières idées et à choisir une hypothèse à examiner avec les personnes concernées.
+
+::: {.callout-important appearance="minimal"}
+À la fin du sprint, vous aurez documenté un retour de terrain, formulé une ou plusieurs hypothèses importantes pour votre projet et précisé avec qui et comment les confronter.
+:::
+
+## Les repères du sprint
+
+Trois activités vous accompagneront progressivement :
+
+1.  Aller sur le terrain pour écouter ou observer une situation liée à votre projet.
+
+2.  Relire votre projet à partir des retours pour préciser le besoin et formuler une ou plusieurs hypothèses.
+
+3.  Préparer la confrontation de vos hypothèses en identifiant les personnes à rencontrer et ce que vous souhaitez apprendre avec elles.
+
+Commencez par l’activité 1. Les consignes des deux activités suivantes seront ajoutées au fil du sprint.
+
+**Prévoyez environ 1 h 30 de travail autonome par semaine, dans le cadre du temps consacré au programme.**
+
+## Votre espace de travail sur Miro
+
+Retrouvez votre espace dans le tableau Miro du Sprint 2. Vous pourrez y déposer vos retours de terrain et les reprendre au fil des activités.
+
+**Accéder au tableau Miro du Sprint 2 \[[cliquez ici](https://miro.com/app/board/uXjVEee1Elo=/?share_link_id=218643546910)\]**
+
+::: {.callout-warning appearance="simple"}
+## Activité 1
+
+Reprenez le projet choisi au Sprint 1 et notez une question à laquelle le terrain pourrait vous aider à répondre. Choisissez ensuite une méthode adaptée : un entretien court, une observation, un parcours commenté, un échange avec un partenaire ou une analyse de traces existantes. Les fiches ressources que vous trouverez sur Miro vous aideront à choisir et à préparer votre enquête.
+
+Après ce premier contact, déposez votre retour dans Miro. Choisissez le format qui rend le mieux compte de votre expérience : quelques lignes, un dessin commenté, des photos légendées ou une courte vidéo. Quel que soit le format, indiquez :
+
+- Ce que vous cherchiez à comprendre et comment vous vous y êtes pris.
+- Ce que vous avez entendu ou observé, avec un exemple précis.
+- Ce que cela change pour votre projet ou la question que vous souhaitez approfondir.
+:::
+
+## Le défi collectif — Les ballons du réseau ASTÉRIE
+
+Au kick-off, les ballons représentaient les forces qui aident nos tiers-lieux à s’élever. Pendant le Sprint 2, chaque premier retour de terrain ajoute un ballon à la maison du réseau.
+
+Notre objectif commun est de réunir un premier retour de terrain pour chaque projet du sprint. Pour y contribuer, déposez dans Miro une situation observée ou un échange, puis indiquez ce que cela vous aide à comprendre pour votre projet.
+
+\[X\] sur \[N\] ballons réunis
+
+Les enquêtes peuvent se poursuivre. Un autre point de vue, une méthode complémentaire ou une hypothèse mise à l’épreuve vient enrichir les apprentissages du réseau.
+
+## Besoin d’un appui ?
+
+L’équipe ERPI/ENSGSI peut vous aider à préciser votre question, à choisir une méthode ou à préparer un premier contact.
+
+Contactez nous à l'adresse suivante : **ensgsi-clip-contact\@univ-lorraine.fr**

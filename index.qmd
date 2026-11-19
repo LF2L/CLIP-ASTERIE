@@ -28,19 +28,19 @@ Un parcours collectif pour développer vos tiers-lieux éducatifs, expérimenter
 ::: clip-next
 [Votre prochaine étape]{.clip-eyebrow}
 
-## Sprint 1 - Ancrer
+## Sprint 2 - Explorer et ajuster
 
 [En cours]{.clip-status}
 
 Rendez-vous sur l'espace virtuel du CLIP-ASTERIE.
 
-<div class="clip-countdown" data-deadline="2026-11-19T15:00:00+02:00" data-timezone="Europe/Paris">
+<div class="clip-countdown" data-deadline="2027-01-07T14:00:00+01:00" data-timezone="Europe/Paris">
   <div class="clip-countdown-value" role="timer" aria-live="off" aria-label="Temps restant avant la prochaine étape">Date à confirmer</div>
   <p class="clip-countdown-date"></p>
   <noscript>Consultez la page de l’étape pour connaître sa date.</noscript>
 </div>
 
-[Finaliser le Sprint 1](parcours/sprint1.qmd){.btn .btn-outline-primary}
+[Finaliser le Sprint 2](parcours/sprint2.qmd){.btn .btn-outline-primary}
 
 :::
 :::::
@@ -93,12 +93,14 @@ Ancrer
 [Page disponible]{.clip-status}
 :::
 
-::: clip-stage
+::: {.clip-stage .clip-stage-open}
 [02]{.clip-step}
 
-### Sprint 2
+### [Sprint 2](parcours/sprint2.qmd)
 
-[À venir]{.clip-status}
+Explorer et ajuster
+
+[Page disponible]{.clip-status}
 :::
 
 ::: clip-stage

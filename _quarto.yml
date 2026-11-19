@@ -6,6 +6,7 @@ project:
     - parcours/index.qmd
     - parcours/kickoff.qmd
     - parcours/sprint1.qmd
+    - parcours/sprint2.qmd
     - equipe.qmd
     - ressources/index.qmd
 
@@ -34,6 +35,7 @@ website:
         - parcours/index.qmd
         - parcours/kickoff.qmd
         - parcours/sprint1.qmd
+        - parcours/sprint2.qmd
   page-footer:
     left: |
       Développé par :
