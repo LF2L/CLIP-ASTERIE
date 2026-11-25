@@ -1,0 +1,116 @@
+```{=html}
+<!-- Renseigner le total relevé dans Miro et la date au format AAAA-MM-JJ. -->
+<section class="clip-noel" data-points="0" data-maj="2026-11-25" aria-label="Compteur du défi de Noël ASTÉRIE">
+  <div class="clip-noel-scene" aria-hidden="true">
+    <div class="clip-noel-snow"></div>
+    <div class="clip-noel-route"><i></i><i></i><i></i></div>
+    <div class="clip-noel-flight">
+      <i class="clip-noel-ship clip-noel-first"></i>
+      <i class="clip-noel-ship clip-noel-second"></i>
+      <i class="clip-noel-ship clip-noel-third"></i>
+    </div>
+    <div class="clip-noel-village"><i></i><i></i><i></i></div>
+    <div class="clip-noel-gift"><i></i></div>
+  </div>
+  <div class="clip-noel-body">
+    <div class="clip-noel-heading">
+      <strong class="clip-noel-score">0 / 100 points</strong>
+      <span class="clip-noel-network">Réseau TLE ASTÉRIE</span>
+    </div>
+    <progress max="100" value="0" aria-label="Progression du réseau vers les 100 points"></progress>
+    <ol class="clip-noel-milestones" aria-label="Paliers du défi">
+      <li data-threshold="40"><b>40</b> Décollage</li>
+      <li data-threshold="70"><b>70</b> Village en vue</li>
+      <li data-threshold="100"><b>100</b> Surprise</li>
+    </ol>
+    <p class="clip-noel-status" aria-live="polite">Les trois dirigeables se préparent au départ.</p>
+    <p class="clip-noel-update" hidden></p>
+  </div>
+</section>
+
+<style>
+.clip-noel { --travel: 10%; --lift: 64%; --ink: #18313e; --berry: #85284f; --gold: #ffc46c; overflow: hidden; border: 1px solid #d4e3e6; border-radius: 1rem; background: #fbfdfd; color: var(--ink); margin: 1rem 0; }
+.clip-noel-scene { position: relative; overflow: hidden; height: clamp(138px, 26vw, 195px); isolation: isolate; background: linear-gradient(160deg, #14283e, #225267 72%, #377983); }
+.clip-noel-snow { position: absolute; inset: 0; background: radial-gradient(circle, #f2fcff 1px, transparent 1.8px) 0 0 / 55px 49px, radial-gradient(circle, #b1e6eb 1px, transparent 2px) 18px 21px / 83px 51px; opacity: .5; }
+.clip-noel-scene::after { content: ""; position: absolute; z-index: -1; inset: 80% -7% -38%; border-radius: 50% 65% 0 0; background: #dceded; box-shadow: 160px -10px 0 #c0dbdf; }
+.clip-noel-route { position: absolute; left: 10%; right: 15%; top: 75%; border-top: 2px dashed #d4e4e7; opacity: .75; }
+.clip-noel-route i { position: absolute; top: -5px; width: 8px; height: 8px; border-radius: 50%; background: #d4e4e7; }
+.clip-noel-route i:nth-child(1) { left: 40%; }.clip-noel-route i:nth-child(2) { left: 70%; }.clip-noel-route i:nth-child(3) { right: 0; }
+.clip-noel-flight { position: absolute; z-index: 2; width: clamp(56px, 13vw, 102px); aspect-ratio: 2 / 1; left: var(--travel); top: var(--lift); transform: translate(-27%, -50%); transition: left .8s ease, top .8s ease; }
+.clip-noel-ship { --hull: #f4ab48; position: absolute; width: 52%; height: 37%; border-radius: 65% 48% 48% 65%; background: linear-gradient(165deg, #fff7dc 5%, var(--hull) 44%, var(--hull) 72%, #354653); box-shadow: 0 0 0 1px #213546; }
+.clip-noel-ship::before { content: ""; position: absolute; left: -9%; top: -10%; width: 28%; height: 113%; background: var(--hull); clip-path: polygon(0 0, 100% 27%, 92% 76%, 0 100%, 27% 51%); }
+.clip-noel-ship::after { content: ""; position: absolute; left: 36%; bottom: -17%; width: 30%; height: 27%; border-radius: 0 0 35% 35%; background: #f3f1d6; box-shadow: inset 0 -2px #253c4b; }
+.clip-noel-first { top: 5%; left: 44%; }.clip-noel-second { --hull: #7ddbd2; top: 33%; left: 21%; }.clip-noel-third { --hull: #efa4c7; top: 60%; left: 0; }
+.clip-noel-village { position: absolute; right: 2%; bottom: 19%; display: flex; align-items: flex-end; gap: 5px; opacity: .38; transition: opacity .45s; }
+.clip-noel-village i { display: block; position: relative; width: clamp(10px, 2.7vw, 27px); height: clamp(10px, 2.9vw, 29px); background: #213b54; border-radius: 1px; }
+.clip-noel-village i::before { content: ""; position: absolute; inset: -45% -13% 98%; background: #22344c; clip-path: polygon(50% 0, 100% 100%, 0 100%); }
+.clip-noel-village i::after { content: ""; position: absolute; inset: 33% 36%; border-radius: 1px; background: #8d9cac; }
+.clip-noel-village i:nth-child(2) { height: clamp(17px, 4.3vw, 42px); }
+.clip-noel[data-stage="village"] .clip-noel-village, .clip-noel[data-stage="arrivee"] .clip-noel-village { opacity: 1; }
+.clip-noel[data-stage="village"] .clip-noel-village i::after, .clip-noel[data-stage="arrivee"] .clip-noel-village i::after { background: var(--gold); box-shadow: 0 0 8px #ffc46c; }
+.clip-noel-gift { position: absolute; z-index: 2; right: 9%; bottom: 8%; width: clamp(17px, 4vw, 34px); aspect-ratio: 1.15; border-radius: 2px; background: linear-gradient(90deg, #a33158 40%, var(--gold) 40% 60%, #a33158 60%); }
+.clip-noel-gift i { position: absolute; inset: -13% -8% 80%; border-radius: 2px; background: linear-gradient(90deg, #ca5c79 42%, var(--gold) 42% 58%, #ca5c79 58%); transform-origin: left center; transition: transform .45s; }
+.clip-noel-gift i::after { content: ""; position: absolute; left: 37%; bottom: 90%; width: 28%; height: 110%; border: 2px solid var(--gold); border-radius: 70% 70% 35% 35%; }
+.clip-noel[data-stage="arrivee"] .clip-noel-gift i { transform: rotate(-37deg) translateY(-5px); }
+.clip-noel[data-stage="arrivee"] .clip-noel-gift { box-shadow: 0 -5px 18px 2px #ffc46c; }
+.clip-noel-body { padding: .9rem clamp(.75rem, 4%, 1.45rem); }
+.clip-noel-heading { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .2rem 1rem; }
+.clip-noel-score { font-size: clamp(1.3rem, 4vw, 2rem); color: var(--berry); font-variant-numeric: tabular-nums; }
+.clip-noel-network { font-size: .85rem; font-weight: 650; }
+.clip-noel progress { display: block; width: 100%; height: .65rem; margin: .5rem 0 .65rem; overflow: hidden; border: 0; border-radius: 1rem; appearance: none; accent-color: #85284f; background: #e8eaf0; }
+.clip-noel progress::-webkit-progress-bar { background: #e8eaf0; }.clip-noel progress::-webkit-progress-value { background: #85284f; }.clip-noel progress::-moz-progress-bar { background: #85284f; }
+.clip-noel .clip-noel-milestones { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); list-style: none; margin: 0; padding: 0; gap: .35rem; font-size: .78rem; }
+.clip-noel-milestones li { padding: .35rem .3rem; text-align: center; border-radius: .3rem; background: #eef3f4; }
+.clip-noel-milestones b { display: block; }
+.clip-noel-milestones li[data-reached] { color: #fff; background: #285c5e; }
+.clip-noel-status { margin: .65rem 0 0; font-size: .94rem; }
+.clip-noel-update { margin: .3rem 0 0; font-size: .8rem; color: #465c68; }
+@media (prefers-reduced-motion: reduce) { .clip-noel *, .clip-noel *::before, .clip-noel *::after { transition: none !important; } }
+</style>
+
+<script>
+(() => {
+  const goal = 100;
+  const dateFormat = new Intl.DateTimeFormat('fr-FR', { dateStyle: 'long', timeZone: 'UTC' });
+
+  function render(widget) {
+    const rawScore = Number(widget.dataset.points);
+    const score = Number.isFinite(rawScore) ? Math.max(0, Math.trunc(rawScore)) : 0;
+    const progress = Math.min(goal, score);
+    const stages = [
+      { min: 100, id: 'arrivee', lift: 51, message: 'Défi relevé ! Une surprise de Noël attend chaque TLE participant.' },
+      { min: 70, id: 'village', lift: 38, message: 'Le village est en vue.' },
+      { min: 40, id: 'decollage', lift: 45, message: 'Les trois dirigeables ont pris leur envol ensemble !' },
+      { min: 0, id: 'depart', lift: 64, message: 'Les trois dirigeables se préparent au départ.' }
+    ];
+    const next = [{ min: 40, label: 'le décollage' }, { min: 70, label: 'apercevoir le village' }, { min: 100, label: 'débloquer la surprise' }].find(palier => score < palier.min);
+    const stage = stages.find(palier => score >= palier.min);
+    const remaining = next && next.min - score;
+    widget.dataset.stage = stage.id;
+    widget.style.setProperty('--travel', `${10 + 0.75 * progress}%`);
+    widget.style.setProperty('--lift', `${stage.lift}%`);
+    widget.querySelector('progress').value = progress;
+    widget.querySelector('.clip-noel-score').textContent = `${score} / ${goal} points`;
+    widget.querySelector('.clip-noel-status').textContent = next
+      ? `${stage.message} Encore ${remaining} ${remaining === 1 ? 'point' : 'points'} pour ${next.label}.`
+      : stage.message;
+    widget.querySelectorAll('[data-threshold]').forEach(item => {
+      item.toggleAttribute('data-reached', score >= Number(item.dataset.threshold));
+    });
+    const dateText = widget.dataset.maj;
+    const date = new Date(`${dateText}T00:00:00Z`);
+    const update = widget.querySelector('.clip-noel-update');
+    update.hidden = !/^\d{4}-\d{2}-\d{2}$/.test(dateText) || Number.isNaN(date.getTime());
+    if (!update.hidden) update.textContent = `Dernière mise à jour le ${dateFormat.format(date)}`;
+  }
+
+  document.querySelectorAll('.clip-noel').forEach(widget => {
+    render(widget);
+    new MutationObserver(() => render(widget)).observe(widget, {
+      attributes: true,
+      attributeFilter: ['data-points', 'data-maj']
+    });
+  });
+})();
+</script>
+```
