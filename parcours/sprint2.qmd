@@ -6,6 +6,8 @@ title: "Sprint 2 — Explorer et ajuster"
 ***Aller à la rencontre des personnes concernées par votre projet pour faire avancer sa conception, confronter vos premières idées au terrain et identifier les acteurs à mobiliser pour la suite.***
 
 > ***Durée du sprint :** du 19 novembre au 6 janvier 2027.*
+>
+> ***N'oubliez pas de jeter un oeil :*** [Le défi de Noël 🎄](#le-défi-de-noël) ***!***
 :::
 
 ## En bref
@@ -37,7 +39,8 @@ Retrouvez l'enregistrement du lancement du sprint 2 et les diapositives de notre
   style="display: block; width: 100%; aspect-ratio: 16 / 9; border: 0;">
 </iframe>
 ```
-### Diapositives de l’intervention par Vincent Boly, Professeur émérite, ENSGSI-ERPI, Université de Lorraine
+
+### "Comment innover ensemble?" par Vincent Boly, Professeur émérite, ENSGSI-ERPI, Université de Lorraine
 
 [Ouvrir les diapositives en PDF](../assets/documents/sprint-02-presentation.pdf){.btn .btn-outline-primary}
 
@@ -64,7 +67,7 @@ Commencez par l’activité 1. Les consignes des deux activités suivantes sont 
 
 **Prévoyez environ 1 h 30 de travail autonome par semaine, dans le cadre du temps consacré au programme.**
 
-## Votre espace de travail sur Miro
+## Les activités et votre espace de travail
 
 Retrouvez votre espace dans le tableau commun du Sprint 2. Vous y déposerez le support préparé, les traces de vos échanges et votre synthèse.
 
@@ -86,7 +89,15 @@ Choisissez **un seul support**, selon le degré de précision de votre idée et 
 
 Avant la rencontre, préparez une première version et laissez des espaces à compléter. Pendant l’échange, invitez la personne à modifier le support avec vous. Gardez une trace de ce qu’elle ajoute, change ou remet en question pour préparer la prochaine version de votre idée.
 
-Modèles à télécharger \[Lien — Note d’intention\] · \[Lien — Flyer à compléter\] · \[Lien — Dépliant\] · \[Lien — Boîte-produit à assembler\]
+Modèles à télécharger :
+
+- [Lien — Note d’intention](../assets/documents/note-intention.pdf)
+
+- [Lien — Flyer](../assets/documents/flyer.pdf)
+
+- [Lien — Dépliant](../assets/documents/depliant.pdf)
+
+- [Lien — Boîte produit](../assets/documents/boite-produit.pdf)
 :::
 
 ::: {.callout-warning appearance="simple"}
@@ -101,35 +112,6 @@ Après chaque échange, déposez une courte trace dans Miro. Indiquez le rôle d
 **Accédez au tableau Miro du Sprint 2 pour charger la trace de vos échanges. \[[cliquez ici](https://miro.com/app/board/uXjVEee1Elo=/?share_link_id=218643546910)\]**
 :::
 
-## Le défi de Noël 🎄
-
-**Ensemble, atteignons 100 points pour débloquer une surprise de Noël pour chaque TLE participant.**
-
-Au kick-off, les trois dirigeables ont donné forme aux ambitions communes du réseau. Cette fois, ils voyagent ensemble : chaque support préparé et chaque rencontre documentée dans Miro les rapproche de leur destination.
-
-::: {.callout-tip appearance="simple"}
-
-### Objectif collectif : 100 points
-
-À 100 points, une surprise de Noël sera dévoilée pour chaque TLE participant. Toutes les équipes alimentent le même compteur.
-
-#### Suivez le voyage des dirigeables
-
-{{< include _compteur-noel.qmd >}}
-
-:::
-
-### Comment faire avancer les dirigeables ?
-
-Déposez dans votre espace Miro les éléments suivants :
-
-- **Votre support de discussion (issu de l'activité 1) — 5 points, une fois par projet.** Partagez une première version prête à être présentée et complétée avec un acteur.
-
-- **Une trace par rencontre (activité 2) — 4 points, jusqu’à trois rencontres par projet.** Pour chaque échange avec un acteur différent, vous pouvez aussi joindre une trace (une photo légendée, ou un extrait anonymisé du support complété, etc.).
-
-Toutes les contributions alimentent **un seul compteur, celui du réseau de TLE ASTÉRIE**.
-
-
 ::: {.callout-warning appearance="simple"}
 ## Activité 3 - Clarifier les besoins et cartographier les acteurs
 
@@ -140,8 +122,34 @@ Toujours sur Miro, complétez ensuite votre cartographie d’acteurs. Situez les
 **Accédez au Miro pour finaliser le Sprint 2. \[[cliquez ici](https://miro.com/app/board/uXjVEee1Elo=/?share_link_id=218643546910)\]**
 :::
 
+## Le défi de Noël 🎄 {#le-défi-de-noël}
+
+**Ensemble, atteignons 100 points pour débloquer une surprise de Noël pour chaque TLE participant.**
+
+Au kick-off, les trois dirigeables ont donné forme aux ambitions communes du réseau. Cette fois, ils voyagent ensemble : chaque support préparé et chaque rencontre documentée dans Miro les rapproche de leur destination.
+
+::: {.callout-tip appearance="simple"}
+### Objectif collectif : 100 points
+
+À 100 points, une surprise de Noël sera dévoilée pour chaque TLE participant. Toutes les équipes alimentent le même compteur.
+
+#### Suivez le voyage des dirigeables
+
+{{< include _compteur-noel.qmd >}}
+:::
+
+### Comment faire avancer les dirigeables ?
+
+Déposez dans votre espace Miro les éléments suivants :
+
+- **Votre support de discussion (issu de l'activité 1) — 5 points, une fois par projet.** Partagez une première version prête à être présentée et complétée avec un acteur.
+
+- **Une trace par rencontre (activité 2) — 4 points, jusqu’à trois rencontres par projet.** Pour chaque échange avec un acteur différent, vous pouvez aussi joindre une trace (une photo légendée, ou un extrait du support complété, etc.).
+
+Toutes les contributions alimentent **un seul compteur, celui du réseau de TLE ASTÉRIE**. Le compteur sera mis à jour toutes les semaines d'ici à la fin du sprint.
+
 ## Besoin d’un appui ?
 
 L’équipe ERPI/ENSGSI peut vous aider à choisir un support, à préparer un échange ou à relire vos premiers retours.
 
-Contactez nous à l'adresse suivante : **ensgsi-clip-contact\@univ-lorraine.fr**
+Contactez nous : **ensgsi-clip-contact\@univ-lorraine.fr**
